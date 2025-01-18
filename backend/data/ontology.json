@@ -1,0 +1,654 @@
+{
+  "superclasses": ["Decor", "Accessories", "Clothing", "Footwear"],
+  "Decor": {
+    "classes": ["Home Decor", "Furniture"],
+    "Home Decor": {
+      "types": ["Home Decor", "Furniture", "Decor", "Wall Art", "Topwear"],
+      "Home Decor": {
+        "variants": [
+          "Decorating Element",
+          "Home Decor Fabric",
+          "Bathroom Vanity",
+          "Saree"
+        ],
+        "styles": [
+          "Elegant Modern",
+          "Patterned Crepe Fabric",
+          "Modern",
+          "Elegant",
+          "Plain Crepe Fabric"
+        ]
+      },
+      "Furniture": {
+        "variants": [
+          "Transitional Bathroom Vanity with White Carrara Quartz Top",
+          "Freestanding Bathroom Vanity with White Quartz Stone Top",
+          "Cultured Marble Vanity Top",
+          "Modern Bathroom Vanity with White Carrara Marble Top",
+          "Decorative Bathroom Vanity",
+          "Modern Double Sink Carrara Marble Vanity",
+          "Rustic-Modern Bathroom Vanity",
+          "Transitional Bathroom Vanity with White Quartz Top",
+          "Elegant Bathroom Vanity",
+          "Natural Wood Vanity"
+        ],
+        "styles": [
+          "Rustic Traditional",
+          "Traditional",
+          "Transitional Classic",
+          "Modern Classic",
+          "Rustic Modern",
+          "Classic",
+          "Traditional Classic",
+          "Modern Minimalist"
+        ]
+      },
+      "Decor": {
+        "variants": ["Modern Vanity"],
+        "styles": ["Modern", "Modern Classic"]
+      },
+      "Wall Art": {
+        "variants": ["Wall Art"],
+        "styles": ["Minimalist", "Modern"]
+      },
+      "Topwear": {
+        "variants": ["Bathroom Countertop", "Counter Top"],
+        "styles": ["Carrara Marble", "Granite Countertop"]
+      }
+    },
+    "Furniture": {
+      "types": ["Decor", "Furniture"],
+      "Decor": {
+        "variants": ["Decor", "Modern Vanity"],
+        "styles": ["Luxury", "Modern", "Traditional"]
+      },
+      "Furniture": {
+        "variants": ["Bathroom Vanity", "Vanity"],
+        "styles": ["Decor", "Design Accent", "Furniture"]
+      }
+    }
+  },
+  "Accessories": {
+    "classes": [
+      "Fashion Accessory",
+      "Traditional Wear",
+      "Timepiece",
+      "Jewelry"
+    ],
+    "Fashion Accessory": {
+      "types": ["Handbag", "Accessories", "Top-wear"],
+      "Handbag": {
+        "variants": ["Fashion Accessory", "Handbag"],
+        "styles": ["Fashion Accessory", "Luxury Watch"]
+      },
+      "Accessories": {
+        "variants": ["Fashion Accessory", "Accessories"],
+        "styles": ["Fashion Accessory", "Accessories"]
+      },
+      "Top-wear": {
+        "variants": [
+          "Fashion Accessory - Accessory Sub-Type: Belt",
+          "Watch - Fashion Accessory - Accessory Sub-Type: Quartz Watch",
+          "Watch - Fashion Accessory - Accessory Sub-Type: Analogue Quartz Watch with Unique Design",
+          "Fashion Accessory - Fashion Accessory - Accessory Sub-Type: Timepiece",
+          "Watch - Watch - Accessory Sub-Type: General Quartz Watch"
+        ],
+        "styles": ["Fashion Accessory", "Fashion Watch", "Accessories"]
+      }
+    },
+    "Traditional Wear": {
+      "types": ["Headwear"],
+      "Headwear": {
+        "variants": ["Subtype of Traditional Wear"],
+        "styles": ["Embroidered Saree"]
+      }
+    },
+    "Timepiece": {
+      "types": ["Watch", "Timepiece", "Timepieces", "Accessories", "Watches"],
+      "Watch": {
+        "variants": [
+          "Accessories/Subtype - Timepiece/Variant: Watch Style (e.g. Rectangular, Round, Square)",
+          "Watch Style - Round",
+          "Accessories/Subtype - Timepiece/Variant: Watch Style (e.g. Rectangular, Round, Square) - Accessory/Subtype - Timepiece/Variant: Dress Watch or Formal Wear",
+          "Accessories/Subtype - Timepiece/Variant: Watch Style (e.g. Rectangular, Round, Square) - Accessories/Subtype - Timepiece/Variant: Watch Style - Round",
+          "Accessories/Subtype - Timepiece/Variant: Watch Style - Round",
+          "Accessories/Subtype - Timepiece/Variant: Watch Style (e.g. Rectangular, Round, Square) - Accessories/Subtype - Timepiece/Variant: Strap Material (e.g. Stainless Steel, Leather, etc.)"
+        ],
+        "styles": ["Timepiece", "Color Accent"]
+      },
+      "Timepiece": {
+        "variants": ["Timepiece", "Saree"],
+        "styles": ["Fashion Accessory", "Accessories"]
+      },
+      "Timepieces": {
+        "variants": ["Timepiece", "Accessories"],
+        "styles": ["Fashion Accessory", "Accessories"]
+      },
+      "Accessories": {
+        "variants": ["Accessories Subtype: Timepiece", "Accessory Subtype"],
+        "styles": ["Leather Accessory", "Accessories"]
+      },
+      "Watches": {
+        "variants": [
+          "Analog Watch",
+          "Leather Strap Analog Watch",
+          "Accessories",
+          "Analogue Watch",
+          ["Accessories", "Analog Watch"]
+        ],
+        "styles": [
+          "Premium Stainless Steel Strap",
+          "Leather Strap with Exquisite Detailing",
+          "Silicon Strap",
+          "Metallic Strap",
+          "High-Quality Stainless Steel Strap",
+          "Rubber Strap",
+          "Silicone Strap",
+          "Leather Strap"
+        ]
+      }
+    },
+    "Jewelry": {
+      "types": [
+        "Hand Accessories",
+        "Jewelry Accessory",
+        "Head Accessories",
+        "Jhumkas",
+        "Handbag",
+        "Handwear",
+        "Earrings"
+      ],
+      "Hand Accessories": {
+        "variants": [
+          "Hand Accessories",
+          "Fashion Accessories",
+          "Jewelry Accessories",
+          "Hand Jewelry",
+          "Fashion Jewelry"
+        ],
+        "styles": [
+          "Contemporary Accessories",
+          "Fashion Accessories",
+          "Contemporary Jewelry",
+          "Patterned Jewelry"
+        ]
+      },
+      "Jewelry Accessory": {
+        "variants": [
+          "Jhumkas Earrings",
+          "Earrings",
+          "Jewelry Accessory Earrings"
+        ],
+        "styles": ["Jewelry Accessory", "Fashion Jewelry", "Floral Design"]
+      },
+      "Head Accessories": {
+        "variants": [
+          "Western Ear Hoop",
+          "Contemporary Drop Earrings",
+          "Western Drop Earrings",
+          "Contemporary Ear Cuff"
+        ],
+        "styles": ["Western", "Traditional", "Contemporary"]
+      },
+      "Jhumkas": {
+        "variants": ["Subtype of Earrings", "Earrings", "Subtype of Jhumkas"],
+        "styles": ["Luxury Jhumkas", "Vintage Jhumkas", "Elegant Jhumkas"]
+      },
+      "Handbag": {
+        "variants": ["Fashion Jewelry"],
+        "styles": ["Geometric"]
+      },
+      "Handwear": {
+        "variants": ["Jewelry", "Type", "Handwear"],
+        "styles": ["Luxurious Jewelry", "Western Earrings"]
+      },
+      "Earrings": {
+        "variants": [
+          "Abstract Drop Earrings",
+          "Hoop Earrings",
+          "Stud Earrings",
+          "Chandelier Earrings",
+          "Tribal Jhumkas"
+        ],
+        "styles": [
+          "Gold Plated",
+          "Silver Plated",
+          "Rose Gold Plated",
+          "Pearl Embedded",
+          "Sterling Silver Plated"
+        ]
+      },
+      "Earring": {
+        "variants": [
+          "Fashion Jewelry Earring",
+          "Jewelry Earring",
+          "Fashion Jewelry"
+        ],
+        "styles": [
+          "Contemporary Chic",
+          "Luxury",
+          "Affordable Luxury",
+          "Vintage Chic"
+        ]
+      }
+    }
+  },
+  "Clothing": {
+    "classes": [
+      "Traditional Wear",
+      "Formal Wear",
+      "Casual Wear",
+      "Luxury Traditional Wear",
+      "Formal Traditional Wear"
+    ],
+    "Traditional Wear": {
+      "types": ["Others", "Bottom-wear", "Other", "Top-wear", "Headwear"],
+      "Others": {
+        "variants": ["Traditional Wear", "Kurti", "Saree"],
+        "styles": ["Handwoven", "Traditional Wear", "Silk"]
+      },
+      "Bottom-wear": {
+        "variants": ["Anarkali", "Lehenga", "Kurti"],
+        "styles": ["Traditional"]
+      },
+      "Other": {
+        "variants": ["Traditional Formal Wear"],
+        "styles": ["Traditional Wear", "Hand Block Printed"]
+      },
+      "Top-wear": {
+        "variants": [
+          "Traditional Wear",
+          "Cotton Kurti",
+          "Cotton Saree",
+          "Silk Kurti"
+        ],
+        "styles": ["Handwoven", "Printed", "Embroidered"]
+      },
+      "Headwear": {
+        "variants": ["Saree"],
+        "styles": ["Embroidered Headwear"]
+      }
+    },
+    "Formal Wear Traditional": {
+      "types": ["Bodyware", "Saree"],
+      "Bodyware": {
+        "variants": ["Saree"],
+        "styles": ["Embroidered Saree"]
+      },
+      "Saree": {
+        "variants": ["Traditional Saree", "Formal Traditional Saree"],
+        "styles": ["Saree", "Embroidered Saree"]
+      }
+    },
+    "Casual Wear": {
+      "types": [
+        "Midi-wear",
+        "Maxi-wear",
+        "Top-wear",
+        "Bottom-wear",
+        "A-line Dress",
+        "Bodycon Dress",
+        "Kurta"
+      ],
+      "Otherwear": {
+        "variants": [
+          "Subtype of Casual Wear",
+          "Otherwear",
+          "Pant",
+          "A-line Dress",
+          "Casual Wear"
+        ],
+        "styles": [
+          "Strappy dress",
+          "Flounce-trimmed dress",
+          "Jumper dress",
+          "Bodycon dress"
+        ]
+      },
+      "Midi-wear": {
+        "variants": [
+          "Flared Midi Dress variation",
+          "Bubble-hem dress variation",
+          "Bodycon Dress variation",
+          "A-line Dress variation",
+          "Pleated Midi Dress variation"
+        ],
+        "styles": ["Slim Fit Dress", "Embellished Midi Dress"]
+      },
+      "Maxi-wear": {
+        "variants": ["A-line Dress", "Maxi Dress"],
+        "styles": [
+          "Smocked A-line Dress",
+          "Crochet-look",
+          "A-line Dress",
+          "Bead-detail A-line Dress",
+          "Draped Style Dress"
+        ]
+      },
+      "Halter Dress": {
+        "variants": ["Sportswear"],
+        "styles": ["Solid Colour"]
+      },
+      "Asymmetric Dress": {
+        "variants": [
+          "Voluminous Tie-Belt Dress",
+          "Subtype",
+          "Off-the-Shoulder Dress"
+        ],
+        "styles": [
+          "Lace-detail Dress",
+          "Bodycon Dress",
+          "Halterneck Dress",
+          "Print-motif Dress",
+          "Embroidered Dress"
+        ]
+      },
+      "Bottom-wear": {
+        "variants": ["Trousers", "Jeans", "Bodycon Dress", "Kurti", "Saree"],
+        "styles": [
+          "Regular Fit Jeans",
+          "Slim Fit Jeans",
+          "Straight Fit Jeans",
+          "Ripped Jeans",
+          "Loose Fit"
+        ]
+      },
+      "Kurta": {
+        "variants": ["Subtype of Kurta", "Casual Kurti", "Casual Kurta"],
+        "styles": ["Printed Embellishments", "Casual Wear"]
+      },
+      "Tie-front Dress": {
+        "variants": [
+          "High-neck Frill-collar Dress variant",
+          "Tie-front Dress variant"
+        ],
+        "styles": [
+          "Tie-front Dress with Frill Collar",
+          "Tie-front Dress with Detachable Belt",
+          "Tie-front Dress with Puff Sleeves",
+          "Tie-front Dress with Crinkled Weave Collar"
+        ]
+      },
+      "Anarkali": {
+        "variants": ["Anarkali Kurti", "Subtype", "Casual Wear"],
+        "styles": ["Solid Anarkali", "Printed Anarkali"]
+      },
+      "Top-wear": {
+        "variants": [
+          "Short Sleeve Graphic T-shirt",
+          "Graphic T-shirt",
+          "Casual Solid Color Shirt",
+          "Slim Fit Shirt",
+          "Long Sleeve Casual Shirt",
+          "Button Front Shirt",
+          "Plaid Shirt",
+          "Casual Button Shirt",
+          "T-shirt",
+          "Casual Shirt",
+          "Casual Solid Color Short-sleeve Button Front Shirt",
+          "Floral Shirt",
+          "Casual Solid Color Long Sleeve Shirt",
+          "Graphic Tee",
+          "Casual Long Sleeve Tee",
+          "Regular Fit Long Sleeve Button Front Shirt",
+          "Slim Fit Button Shirt",
+          "Long Sleeve Button Front Shirt",
+          "Casual Long Sleeve Button Front Shirt"
+        ],
+        "styles": [
+          "Anime-Inspired Graphic Tee",
+          "Relaxed Fit Classic Button-Down",
+          "Solid Color Casual Tee",
+          "Slim-Fit Polo Shirt",
+          "Holiday-Themed Graphic Print",
+          "Classic Cotton Casual Button-Shirt",
+          "Classic Plain Long-Sleeve Shirt",
+          "Colorblock Shirt",
+          "Casual Regular Fit Plain Cotton Long-Sleeve Shirt",
+          "Modern Flannel Shirt",
+          "Casual Long Sleeve Regular Fit Autumn Western",
+          "Graphic Print with Cartoon Elements",
+          "Popover Shirt",
+          "Butterfly Print Shirt",
+          "Floral Digital Print",
+          "Casual Long Sleeve All Over Print Shirt",
+          "Holiday-Themed Graphic Casual Tee with Cartoon Elements",
+          "Geometric Print",
+          "Novelty Casual Graphic Tee",
+          "Casual Hooded Robe"
+        ]
+      },
+      "A-line Dress": {
+        "variants": ["Subtype", "Flared Dress"],
+        "styles": [
+          "A-line Dress with Frill Trim",
+          "A-line Dress with Pleats",
+          "A-line Dress",
+          "A-line Dress with Flared Skirt",
+          "Minimalist Dress"
+        ]
+      },
+      "Bandeau-wear": {
+        "variants": ["Strappy Dress", "Bandeau Dress", "High-low dress"],
+        "styles": [
+          "V-Neck Dress",
+          "Smocked Bandeau Dress",
+          "Viscose Beige Midi Dress",
+          "Distressed Cotton"
+        ]
+      },
+      "Bodycon Dress": {
+        "variants": ["Bodycon Dress Type", "Mermaid Skirt Dress Type"],
+        "styles": ["Bodycon", "Ribbed"]
+      },
+      "Jacket-wear": {
+        "variants": ["Subtype of Jacket-wear"],
+        "styles": ["Colorblock"]
+      },
+      "SWEATSHIRT": {
+        "variants": ["SWEATSHIRT JUMPER"],
+        "styles": [
+          "Distressed Jeans",
+          "All Over Print Casual Style",
+          "Cable-knit pattern"
+        ]
+      },
+      "Mini-wear": {
+        "variants": ["A-line Dress", "Bodycon Dress", "Flared Dress"],
+        "styles": [
+          "Overseas",
+          "A-line Dress",
+          "Bodycon Dress",
+          "Turtleneck Dress with Turtle Neckline"
+        ]
+      },
+      "Draped-wear": {
+        "variants": ["Jumper Dress", "Bodycon Dress", "T-shirt Dress"],
+        "styles": ["Solid Colour", "Embroidered Saree"]
+      }
+    },
+    "Casual Traditional Wear": {
+      "types": ["Headwear", "Saree"],
+      "Headwear": {
+        "variants": ["Saree"],
+        "styles": ["Embroidered Saree"]
+      },
+      "Saree": {
+        "variants": [
+          "Sub-Type of Traditional Wear",
+          "Sub-Type of Traditional Wear - Saree"
+        ],
+        "styles": ["Casual Traditional Wear", "Saree", "Embroidered Saree"]
+      }
+    },
+    "Formal Wear": {
+      "types": [
+        "Dress",
+        "Bottom-wear",
+        "Formal Wear",
+        "Top-wear",
+        "Kurta-wear"
+      ],
+      "Wrapwear": {
+        "variants": ["Formal Wrap", "Formal Wrap Dress"],
+        "styles": ["Blazer Dress", "Sequined"]
+      },
+      "Bodycon": {
+        "variants": ["Blazer Dress", "Bodycon Dress"],
+        "styles": ["Blazer dress", "Tie-detail strappy dress", "Bodycon Dress"]
+      },
+      "Dress": {
+        "variants": [
+          "Formal Chiffon Dress",
+          "Formal Viscose Dress",
+          "Formal Satin Dress",
+          "Formal Lace Dress"
+        ],
+        "styles": ["Bodycon", "Sequined", "Flounced"]
+      },
+      "Bottom-wear": {
+        "variants": ["Bandeau Dress", "Saree"],
+        "styles": ["Formal Wear", "Layered Ruffles", "Embroidered"]
+      },
+      "Formal Wear": {
+        "variants": [
+          "Formal Wear Variation - Printed Gown",
+          "Formal Wear Variation"
+        ],
+        "styles": [
+          "Floral Printed Western Dress",
+          "Western Dress",
+          "Formal Wear"
+        ]
+      },
+      "Top-wear": {
+        "variants": ["Shirt", "Gown", "Blazer Dress", "Top-wear"],
+        "styles": ["Formal Wear", "Minimalist", "Sequin", "Satin Finish"]
+      },
+      "Kurta-wear": {
+        "variants": ["Kurta-wear variation", "Formal Kurta"],
+        "styles": ["Formal Wear", "Embroidered"]
+      }
+    },
+    "Traditional Wear Traditional": {
+      "types": ["Headwear", "Bottom-wear"],
+      "Headwear": {
+        "variants": ["Traditional Wear"],
+        "styles": ["Embroidered"]
+      },
+      "Bottom-wear": {
+        "variants": ["Traditional Wear", "Saree"],
+        "styles": ["Traditional Wear", "Embroidered Saree"]
+      }
+    },
+    "Luxury Traditional Wear": {
+      "types": ["Mekhla Chador", "Bottom-wear", "Top-wear", "Other-wear"],
+      "Mekhla Chador": {
+        "variants": ["Luxury Saree", "Variation"],
+        "styles": [
+          "Printed Traditional Wear",
+          "Printed Embroidered Design",
+          "Embroidered Traditional Wear",
+          "Embroidered Saree",
+          "Luxury Traditional Wear"
+        ]
+      },
+      "Bottom-wear": {
+        "variants": ["Luxury Traditional Wear Sari"],
+        "styles": ["Luxury Traditional Wear", "Zari Weaved"]
+      },
+      "Top-wear": {
+        "variants": ["Clothing - Saree", "Luxury Traditional Wear - Saree"],
+        "styles": [
+          "Luxury Traditional Wear",
+          "Embroidered Saree",
+          "Organza Embellished garment"
+        ]
+      },
+      "Other-wear": {
+        "variants": [
+          "Banarasi Silk Saree",
+          "Fancy Cotton Saree",
+          "Silk Saree",
+          "Luxury Traditional Wear",
+          "Saree"
+        ],
+        "styles": ["Printed Saree", "Embroidered Saree", "Zari Woven Saree"]
+      }
+    },
+    "Luxury Casual Wear Traditional": {
+      "types": ["Headwear", "Bottom-wear", "Top-wear"],
+      "Headwear": {
+        "variants": ["Saree"],
+        "styles": ["Luxurious Embellishments"]
+      },
+      "Bottom-wear": {
+        "variants": ["Saree"],
+        "styles": ["Luxury Casual Wear Traditional Saree", "Embroidered Saree"]
+      },
+      "Top-wear": {
+        "variants": ["Saree"],
+        "styles": ["Embroidered Blouse", "Embroidered Saree"]
+      }
+    },
+    "Formal Traditional Wear": {
+      "types": [
+        "Bottom-wear",
+        "Formal Traditional Wear",
+        "Saree",
+        "Mekhla Sador"
+      ],
+      "Bottom-wear": {
+        "variants": ["Formal Traditional Saree"],
+        "styles": ["Formal Traditional Wear", "Embroidered Saree"]
+      },
+      "Formal Traditional Wear": {
+        "variants": ["Formal Traditional Wear", "Saree", "Silk Saree"],
+        "styles": [
+          "Printed Embroidered Georgette Saree",
+          "Formal Traditional Wear"
+        ]
+      },
+      "Saree": {
+        "variants": ["Formal Traditional Wear", "Saree"],
+        "styles": [
+          "Printed Saree",
+          "Formal Traditional Wear Saree",
+          "Embroidered Saree"
+        ]
+      },
+      "Mekhla Sador": {
+        "variants": ["Subtype"],
+        "styles": ["Embroidered Mekhla Sador"]
+      }
+    }
+  },
+  "Footwear": {
+    "classes": ["Smart Casual Shoes", "Casual Shoes", "Semi Formal Shoes"],
+    "Smart Casual Shoes": {
+      "types": ["Footwear"],
+      "Footwear": {
+        "variants": ["Sneakers", "High-top Sneakers"],
+        "styles": ["Patterned Footwear", "Patterned Sneakers"]
+      }
+    },
+    "Casual Shoes": {
+      "types": ["Footwear/Sneakers", "Footwear"],
+      "Footwear/Sneakers": {
+        "variants": ["Sneaker", "High-top Sneakers"],
+        "styles": ["Solid Pattern", "Colourblocked"]
+      },
+      "Footwear": {
+        "variants": ["Sneaker"],
+        "styles": ["Patterned Footwear"]
+      }
+    },
+    "Semi Formal Shoes": {
+      "types": ["Footwear"],
+      "Footwear": {
+        "variants": ["Sneakers"],
+        "styles": ["Tan Leather"]
+      }
+    }
+  }
+}

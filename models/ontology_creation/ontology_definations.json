@@ -1,0 +1,46 @@
+{
+  "superclass": "The broadest and most stable classification representing the general type of product. This category is fixed and does not change frequently.",
+  "class": "A functional or cultural subdivision within each superclass. It defines the primary purpose, context, or cultural relevance of the product. Examples include Traditional Wear, Casual Wear, Formal Wear, Athletic Wear, and Seasonal Wear.",
+  "type": "A category that describes the general physical form or body area associated with the product. This is typically where or how the item is used or worn. Examples include Top-wear, Bottom-wear, Footwear, Headwear, Neckwear, and Handbags.",
+  "variant": "A specific version or subtype of a product that varies by design, material, or cut. This level reflects distinct product variations that differ in aesthetic or functional aspects but fall under the same type. Examples include Skinny Jeans, Silk Saree, or High-top Sneakers.",
+  "style": "Fine-grained descriptors that highlight aesthetic details, patterns, colors, or unique design elements. This level captures subtle features that influence consumer preference but do not change the core classification. Examples include Distressed Jeans, Embroidered Saree, or Minimalist Sneakers.",
+
+  "examples": {
+    "superclass": ["Clothing", "Footwear", "Accessories", "Decor", "Bags", "Jewelry"],
+    
+    "class": {
+      "Clothing": ["Traditional Wear", "Casual Wear", "Formal Wear", "Athletic Wear", "Seasonal Wear"],
+      "Footwear": ["Casual Shoes", "Formal Shoes", "Athletic Shoes", "Traditional Footwear"],
+      "Accessories": ["Eyewear", "Headwear", "Belts", "Watches"],
+      "Decor": ["Wall Art", "Textile Art", "Fashion Sculptures"],
+      "Bags": ["Handbags", "Backpacks", "Tote Bags"],
+      "Jewelry": ["Necklaces", "Earrings", "Bracelets", "Rings"]
+    },
+
+    "type": {
+      "Traditional Wear": ["Saree", "Kurti", "Sherwani", "Kimono"],
+      "Casual Wear": ["T-shirts", "Jeans", "Dresses", "Jackets"],
+      "Formal Wear": ["Suits", "Gowns", "Blazers"],
+      "Athletic Wear": ["Hoodies", "Joggers", "Sportswear"],
+      "Footwear": ["Sneakers", "Boots", "Loafers", "Sandals"],
+      "Jewelry": ["Stud Earrings", "Bangle Bracelets", "Pendant Necklaces"]
+    },
+
+    "variant": {
+      "Sneakers": ["High-top Sneakers", "Slip-on Sneakers"],
+      "Saree": ["Silk Saree", "Cotton Saree"],
+      "Jeans": ["Skinny Jeans", "Baggy Jeans"],
+      "Earrings": ["Hoop Earrings", "Drop Earrings"]
+    },
+
+    "style": {
+      "Jeans": ["Distressed", "Embroidered", "Ripped"],
+      "Saree": ["Embroidered", "Printed", "Handwoven"],
+      "Sneakers": ["Minimalist", "Chunky Sole"]
+    }
+  }
+}
+
+
+
+

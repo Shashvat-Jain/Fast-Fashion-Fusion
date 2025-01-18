@@ -1,0 +1,329 @@
+{
+    "superclasses": [
+        "Clothing",
+        "Footwear",
+        "Accessories",
+        "Decor"
+    ],
+    "Clothing": {
+        "classes": [
+            "Traditional Wear",
+            "Casual Wear",
+            "Formal Wear",
+            "Luxury Casual Wear"
+        ],
+        "Traditional Wear": {
+            "Top-wear": {
+                "variants": [
+                    "Silk Kurti",
+                    "Cotton Kurti",
+                    "Sherwani"
+                ],
+                "styles": [
+                    "Embroidered",
+                    "Handwoven",
+                    "Printed"
+                ]
+            },
+            "Bottom-wear": {
+                "variants": [
+                    "Dhoti",
+                    "Lehenga"
+                ],
+                "styles": [
+                    "Plain",
+                    "Zari Work"
+                ]
+            },
+            "Others": {
+                "variants": [
+                    "Saree"
+                ],
+                "styles": [
+                    "Embroidered",
+                    "Handwoven",
+                    "Silk"
+                ]
+            },
+            "types": [
+                "Top-wear",
+                "Bottom-wear",
+                "Others"
+            ]
+        },
+        "Casual Wear": {
+            "Top-wear": {
+                "variants": [
+                    "T-shirt",
+                    "Shirt",
+                    "Dress",
+                    "Hoodie",
+                    "Puffer Jacket"
+                  ],
+                "styles": [
+                    "Graphic Print",
+                    "Oversized",
+                    "One-shoulder Style Dress",
+                    "Floral Print"
+                  ]
+            },
+            "Bottom-wear": {
+                "variants": [
+                    "Jeans",
+                    "Shorts",
+                    "Trousers",
+                    "Bodycon Dress"
+                  ],
+                "styles": [
+                    "Ripped",
+                    "Baggy",
+                    "Slim Fit"
+                  ]
+            },
+            "types": [
+                "Top-wear",
+                "Bottom-wear"
+            ]
+        },
+        "Formal Wear": {
+            "Top-wear": {
+                "variants": [
+                    "Blazer",
+                    "Shirt",
+                    "Gown"
+                ],
+                "styles": [
+                    "Satin Finish",
+                    "Minimalist",
+                    "Sequin"
+                ]
+            },
+            "types": [
+                "Top-wear"
+            ]
+        },
+        "Luxury Casual Wear": {}
+    },
+    "Footwear": {
+        "classes": [
+            "Casual Shoes",
+            "Formal Shoes",
+            "Traditional Footwear"
+        ],
+        "Casual Shoes": {
+            "Sneakers": {
+                "variants": [
+                    "High-top Sneakers",
+                    "Slip-on Sneakers"
+                ],
+                "styles": [
+                    "Chunky Sole",
+                    "Minimalist",
+                    "Embroidered"
+                ]
+            },
+            "types": [
+                "Sneakers"
+            ]
+        },
+        "Formal Shoes": {
+            "Oxford": {
+                "variants": [
+                    "Leather Oxford",
+                    "Suede Oxford"
+                ],
+                "styles": [
+                    "Glossy Finish",
+                    "Matte Finish"
+                ]
+            },
+            "types": [
+                "Oxford"
+            ]
+        },
+        "Traditional Footwear": {
+            "Juttis": {
+                "variants": [
+                    "Leather Juttis",
+                    "Velvet Juttis"
+                ],
+                "styles": [
+                    "Embroidered",
+                    "Mirror Work"
+                ]
+            },
+            "types": [
+                "Juttis"
+            ]
+        }
+    },
+    "Accessories": {
+        "classes": [
+            "Timepiece",
+            "Jewelry"
+        ],
+        "Timepiece": {
+            "Watches": {
+                "variants": [
+                    "Analog Watch",
+                    "Smart Watch"
+                ],
+                "styles": [
+                    "Leather Strap",
+                    "Metallic Strap"
+                ]
+            },
+            "types": [
+                "Watches"
+            ]
+        },
+        "Jewelry": {
+            "Earrings": {
+                "variants": [
+                    "Hoop Earrings",
+                    "Stud Earrings",
+                    "Drop Earrings",
+                    "Chandelier Earrings",
+                    "Clip Earrings", 
+                    "Tribal Jhumkas" 
+                  ],
+                "styles": [
+                    "Gold Plated",
+                    "Pearl Embedded",
+                    "Silver Plated"
+                ]
+            },
+            "types": [
+                "Earrings",
+                "Jewelry Accessory",
+                "Earring",
+                "Handbag",
+                "Handwear",
+                "Hand Accessories",
+                "Head Accessories",
+                "Jhumkas"
+            ],
+            "Jewelry Accessory": {
+                "variants": [
+                    "Earrings",
+                    "Jewelry Accessory Earrings",
+                    "Jhumkas Earrings"
+                ],
+                "styles": [
+                    "Floral Design",
+                    "Food-Inspired Jewelry",
+                    "Jewelry Accessory",
+                    "Fashion Jewelry"
+                ]
+            },
+            "Earring": {
+                "variants": [
+                    "Jewelry Earring",
+                    "Fashion Jewelry",
+                    "Fashion Jewelry Earring"
+                ],
+                "styles": [
+                    "Luxury",
+                    "Affordable Luxury",
+                    "Contemporary Chic",
+                    "Vintage Chic"
+                ]
+            },
+            "Handbag": {
+                "variants": [
+                    "Fashion Jewelry"
+                ],
+                "styles": [
+                    "Geometric"
+                ]
+            },
+            "Handwear": {
+                "variants": [
+                    "Type",
+                    "Jewelry",
+                    "Handwear"
+                ],
+                "styles": [
+                    "Luxurious Jewelry",
+                    "Western Earrings"
+                ]
+            },
+            "Hand Accessories": {
+                "variants": [
+                    "Fashion Accessories",
+                    "Jewelry Accessories",
+                    "Fashion Jewelry",
+                    "Hand Accessories",
+                    "Hand Jewelry"
+                ],
+                "styles": [
+                    "Patterned Jewelry",
+                    "Fashion Accessories",
+                    "Contemporary Jewelry",
+                    "Contemporary Accessories"
+                ]
+            },
+            "Head Accessories": {
+                "variants": [
+                    "Contemporary Ear Cuff",
+                    "Western Ear Hoop",
+                    "Western Drop Earrings",
+                    "Contemporary Drop Earrings"
+                ],
+                "styles": [
+                    "Contemporary",
+                    "Western",
+                    "Traditional"
+                ]
+            },
+            "Jhumkas": {
+                "variants": [
+                    "Subtype of Jhumkas",
+                    "Earrings",
+                    "Subtype of Earrings"
+                ],
+                "styles": [
+                    "Elegant Jhumkas",
+                    "Luxury Jhumkas",
+                    "Vintage Jhumkas"
+                ]
+            }
+        }
+    },
+    "Decor": {
+        "classes": [
+            "Home Decor",
+            "Furniture"
+        ],
+        "Home Decor": {
+            "Wall Art": {
+                "variants": [
+                    "Canvas Painting",
+                    "Tapestry"
+                ],
+                "styles": [
+                    "Abstract",
+                    "Minimalist"
+                ]
+            },
+            "types": [
+                "Wall Art"
+            ]
+        },
+        "Furniture": {
+            "Living Room": {
+                "variants": [
+                    "Sofa",
+                    "Coffee Table"
+                ],
+                "styles": [
+                    "Leather Finish",
+                    "Wooden"
+                ]
+            },
+            "types": [
+                "Living Room"
+            ]
+        }
+    }
+}

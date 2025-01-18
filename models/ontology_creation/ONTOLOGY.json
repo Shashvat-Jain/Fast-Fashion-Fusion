@@ -1,0 +1,1942 @@
+{
+    "superclasses": [
+        "Decor",
+        "Accessories",
+        "Clothing",
+        "Footwear"
+    ],
+    "Decor": {
+        "classes": [
+            "Home Decor",
+            "Furniture"
+        ],
+        "Home Decor": {
+            "types": [
+                "Home Decor",
+                "Furniture",
+                "Decor",
+                "Wall Art",
+                "Topwear"
+            ],
+            "Home Decor": {
+                "variants": [
+                    "Decorating Element",
+                    "Home Decor Fabric",
+                    "Bathroom Vanity",
+                    "Saree"
+                ],
+                "styles": [
+                    "Elegant Modern",
+                    "Patterned Crepe Fabric",
+                    "Modern",
+                    "Elegant",
+                    "Plain Crepe Fabric"
+                ]
+            },
+            "Furniture": {
+                "variants": [
+                    "Transitional Bathroom Vanity with White Carrara Quartz Top",
+                    "Freestanding Bathroom Vanity with White Quartz Stone Top",
+                    "Cultured Marble Vanity Top",
+                    "Bathroom Vanity Set",
+                    "Cultured/Engineered Stone Vanity Top - Modern Design",
+                    "Decorative Bathroom Vanity Cabinet",
+                    "Natural Wood Vanity",
+                    "Distressed Bathroom Vanity",
+                    "Modern Bathroom Vanity with White Marble Top",
+                    "Transitional Bathroom Vanity with White Carrara Marble Top",
+                    "Transitional Bathroom Vanity with White Engineered Marble Top",
+                    "Urbania Vanity",
+                    "Versatile Double Sink Carrara Marble Vanity",
+                    "Modern Bathroom Vanity with White Quartz Stone Top",
+                    "Freestanding Bathroom Vanity",
+                    "Castle Grey Marble Bathroom Vanity",
+                    "Modern Double Sink Vanity with Solid Wood Frame",
+                    "Modern Bathroom Vanity with Carrara Marble Top",
+                    "Modern Bathroom Vanity with Walnut Top",
+                    "Transitional Bathroom Vanity",
+                    "Transitional Bathroom Vanity with White Cultured Marble Top",
+                    "Decorative Bathroom Vanity",
+                    "Modern Bathroom Vanity with White Carrara Marble Top",
+                    "Carrara Marble Vanity Top",
+                    "Walnut Vanity",
+                    "Bathroom Vanity Cabinet",
+                    "Modern Bathroom Vanity with White Ceramic Top",
+                    "Elegant Bathroom Vanity",
+                    "Modern Bathroom Vanity with White Cultured Marble Top",
+                    "White Marble Vanity with Brushed Gold Accents",
+                    "Decorative Bathroom Vanity with White Ceramic Top",
+                    "Modern Double Sink Carrara Marble Vanity",
+                    "Modern Bathroom Vanity with White Engineered Marble Top",
+                    "Modern Bathroom Vanity with White Microstone Top",
+                    "Transitional Bathroom Vanity with White Quartz Stone Top",
+                    "Modern Bathroom Vanity with White Quartz Top",
+                    "Rustic-Modern Bathroom Vanity",
+                    "Decorative Bathroom Vanity with White Castle Grey Marble Top",
+                    "Cultured Marble Countertop",
+                    "Transitional Bathroom Vanity Set with Carrara Marble Top",
+                    "Modern Bathroom Vanity",
+                    "Transitional Bathroom Vanity with Dark Gray Carrara Marble Top",
+                    "Home Decor Vanity",
+                    "Rustic Bathroom Vanity",
+                    "Transitional Bathroom Vanity with White Quartz Top",
+                    "Distressed Grey Engineered Stone Vanity",
+                    "Modern Bathroom Vanity with Castle Grey Marble Top",
+                    "Transitional Bathroom Vanity with White Marble Top",
+                    "Transitional Bathroom Vanity with Brushed Nickel Accents",
+                    "Transitional Bathroom Vanity with Carrara Marble Top"
+                ],
+                "styles": [
+                    "Rustic Traditional",
+                    "Traditional",
+                    "Transitional Classic",
+                    "Modern Classic",
+                    "Rustic Modern",
+                    "Classic",
+                    "Traditional Classic",
+                    "Modern Minimalist"
+                ]
+            },
+            "Decor": {
+                "variants": [
+                    "Modern Vanity"
+                ],
+                "styles": [
+                    "Modern",
+                    "Modern Classic"
+                ]
+            },
+            "Wall Art": {
+                "variants": [
+                    "Wall Art"
+                ],
+                "styles": [
+                    "Minimalist",
+                    "Modern"
+                ]
+            },
+            "Topwear": {
+                "variants": [
+                    "Bathroom Countertop",
+                    "Counter Top"
+                ],
+                "styles": [
+                    "Carrara Marble",
+                    "Granite Countertop"
+                ]
+            }
+        },
+        "Furniture": {
+            "types": [
+                "Decor",
+                "Furniture"
+            ],
+            "Decor": {
+                "variants": [
+                    "Decor",
+                    "Modern Vanity"
+                ],
+                "styles": [
+                    "Luxury",
+                    "Modern",
+                    "Traditional"
+                ]
+            },
+            "Furniture": {
+                "variants": [
+                    "Bathroom Vanity",
+                    "Vanity"
+                ],
+                "styles": [
+                    "Decor",
+                    "Design Accent",
+                    "Furniture"
+                ]
+            }
+        }
+    },
+    "Accessories": {
+        "classes": [
+            "Fashion Accessory",
+            "Traditional Wear",
+            "Timepiece",
+            "Jewelry"
+        ],
+        "Fashion Accessory": {
+            "types": [
+                "Handbag",
+                "Accessories",
+                "Top-wear"
+            ],
+            "Handbag": {
+                "variants": [
+                    "Fashion Accessory",
+                    "Handbag"
+                ],
+                "styles": [
+                    "Fashion Accessory",
+                    "Luxury Watch"
+                ]
+            },
+            "Accessories": {
+                "variants": [
+                    "Fashion Accessory",
+                    "Accessories"
+                ],
+                "styles": [
+                    "Fashion Accessory",
+                    "Accessories"
+                ]
+            },
+            "Top-wear": {
+                "variants": [
+                    "Fashion Accessory - Accessory Sub-Type: Belt",
+                    "Watch - Fashion Accessory - Accessory Sub-Type: Quartz Watch",
+                    "Fashion Accessory - Fashion Accessory Sub-Type: Quartz Watch",
+                    "Watch - Fashion Accessory Sub-Type: Analogue Quartz Watch with Unique Design",
+                    "Watch - Fashion Accessory - Accessory Sub-Type: Analogue Quartz Watch",
+                    "Watch - Fashion Accessory - Fashion Accessory Sub-Type: Quartz Analogue Watch with Signature Case",
+                    "Watch - Fashion Accessory - Accessory Sub-Type: Analogue Quartz Watch with Unique Design",
+                    "Fashion Accessory - Fashion Accessory - Accessory Sub-Type: Timepiece",
+                    "Watch - Analogue Quartz",
+                    "Watch - Fashion Accessory Sub-Type: Quartz Watch",
+                    "Fashion Accessory - Fashion Accessory Sub-Type: Watch",
+                    "Watch - Fashion Accessory - Fashion Accessory Sub-Type: Quartz Watch",
+                    "Watch - Fashion Accessory - Fashion Accessory Sub-Type: Analogue Quartz Watch with Unique Design",
+                    "Fashion Accessory - Accessory Sub-Type: Watch",
+                    "Watch - Watch - Accessory Sub-Type: General Quartz Watch",
+                    "Fashion Accessory - Fashion Accessory - Accessory Sub-Type: Watch"
+                ],
+                "styles": [
+                    "Fashion Accessory",
+                    "Fashion Watch",
+                    "Accessories"
+                ]
+            }
+        },
+        "Traditional Wear": {
+            "types": [
+                "Headwear"
+            ],
+            "Headwear": {
+                "variants": [
+                    "Subtype of Traditional Wear"
+                ],
+                "styles": [
+                    "Embroidered Saree"
+                ]
+            }
+        },
+        "Timepiece": {
+            "types": [
+                "Watch",
+                "Timepiece",
+                "Timepieces",
+                "Accessories",
+                "Watches"
+            ],
+            "Watch": {
+                "variants": [
+                    "Accessories/Subtype - Timepiece/Variant: Watch Style (e.g. Rectangular, Round, Square)",
+                    "Watch Style - Round",
+                    "Accessories/Subtype - Timepiece/Variant: Watch Style (e.g. Rectangular, Round, Square) - Accessory/Subtype - Timepiece/Variant: Dress Watch or Formal Wear",
+                    "Accessories/Subtype - Timepiece/Variant: Watch Style (e.g. Rectangular, Round, Square) - Accessories/Subtype - Timepiece/Variant: Watch Style - Round",
+                    "Accessories/Subtype - Timepiece/Variant: Watch Style - Round",
+                    "Accessories/Subtype - Timepiece/Variant: Watch Style (e.g. Rectangular, Round, Square) - Accessories/Subtype - Timepiece/Variant: Strap Material (e.g. Stainless Steel, Leather, etc.)"
+                ],
+                "styles": [
+                    "Timepiece",
+                    "Color Accent"
+                ]
+            },
+            "Timepiece": {
+                "variants": [
+                    "Timepiece",
+                    "Saree"
+                ],
+                "styles": [
+                    "Fashion Accessory",
+                    "Accessories"
+                ]
+            },
+            "Timepieces": {
+                "variants": [
+                    "Timepiece",
+                    "Accessories"
+                ],
+                "styles": [
+                    "Fashion Accessory",
+                    "Accessories"
+                ]
+            },
+            "Accessories": {
+                "variants": [
+                    "Accessories Subtype: Timepiece",
+                    "Accessory Subtype"
+                ],
+                "styles": [
+                    "Leather Accessory",
+                    "Accessories"
+                ]
+            },
+            "Watches": {
+                "variants": [
+                    "Analog Watch",
+                    "Leather Strap Analog Watch",
+                    "Accessories",
+                    "Analogue Watch",
+                    [
+                        "Accessories",
+                        "Analog Watch"
+                    ]
+                ],
+                "styles": [
+                    "Premium Stainless Steel Strap",
+                    "Leather Strap with Exquisite Detailing",
+                    "Silicon Strap",
+                    "Metallic Strap",
+                    "The strap material is predominantly made of Stainless Steel with accents of Silver Tone",
+                    "High-Quality Stainless Steel Strap",
+                    "Rubber Strap",
+                    "Silicone Strap",
+                    "Accessories",
+                    "Leather Strap"
+                ]
+            }
+        },
+        "Jewelry": {
+            "types": [
+                "Hand Accessories",
+                "Jewelry Accessory",
+                "Head Accessories",
+                "Jhumkas",
+                "Handbag",
+                "Handwear",
+                "Earrings",
+                "Earring"
+            ],
+            "Hand Accessories": {
+                "variants": [
+                    "Hand Accessories",
+                    "Fashion Accessories",
+                    "Jewelry Accessories",
+                    "Hand Jewelry",
+                    "Fashion Jewelry"
+                ],
+                "styles": [
+                    "Contemporary Accessories",
+                    "Fashion Accessories",
+                    "Contemporary Jewelry",
+                    "Patterned Jewelry"
+                ]
+            },
+            "Jewelry Accessory": {
+                "variants": [
+                    "Jhumkas Earrings",
+                    "Earrings",
+                    "Jewelry Accessory Earrings"
+                ],
+                "styles": [
+                    "Jewelry Accessory",
+                    "Fashion Jewelry",
+                    "Floral Design"
+                ]
+            },
+            "Head Accessories": {
+                "variants": [
+                    "Western Ear Hoop",
+                    "Contemporary Drop Earrings",
+                    "Western Drop Earrings",
+                    "Contemporary Ear Cuff"
+                ],
+                "styles": [
+                    "Western",
+                    "Traditional",
+                    "Contemporary"
+                ]
+            },
+            "Jhumkas": {
+                "variants": [
+                    "Subtype of Earrings",
+                    "Earrings",
+                    "Subtype of Jhumkas"
+                ],
+                "styles": [
+                    "Luxury Jhumkas",
+                    "Vintage Jhumkas",
+                    "Elegant Jhumkas"
+                ]
+            },
+            "Handbag": {
+                "variants": [
+                    "Fashion Jewelry"
+                ],
+                "styles": [
+                    "Geometric"
+                ]
+            },
+            "Handwear": {
+                "variants": [
+                    "Jewelry",
+                    "Type",
+                    "Handwear"
+                ],
+                "styles": [
+                    "Luxurious Jewelry",
+                    "Western Earrings"
+                ]
+            },
+            "Earrings": {
+                "variants": [
+                    "Abstract Drop Earrings",
+                    "Multi-Component Earrings",
+                    "Clip Stud Earrings",
+                    "Contemporary Stud Earrings",
+                    "Art Deco Earrings",
+                    "Drop Earrings",
+                    "Chandelier Earrings",
+                    "Tribal Jhumkas",
+                    "Hoop Earrings",
+                    "Stud Earrings",
+                    "Cluster Earrings",
+                    "Half Hoop Earrings",
+                    "Abstract Earrings"
+                ],
+                "styles": [
+                    "Gold Plated",
+                    "Silver Plated",
+                    "Sterling Silver Plated",
+                    "Recycled Silver Plated",
+                    "Luxury Finish",
+                    "Recycled Gold Plated",
+                    "Sterling Base Metal",
+                    "Pearl Embedded",
+                    "Brass Plated",
+                    "Synthetic Metal Plated",
+                    "Brass",
+                    "Silver Finish",
+                    "Rose Gold Plated"
+                ]
+            },
+            "Earring": {
+                "variants": [
+                    "Fashion Jewelry Earring",
+                    "Jewelry Earring",
+                    "Fashion Jewelry"
+                ],
+                "styles": [
+                    "Contemporary Chic",
+                    "Luxury",
+                    "Affordable Luxury",
+                    "Vintage Chic"
+                ]
+            }
+        }
+    },
+    "Clothing": {
+        "classes": [
+            "Traditional Wear",
+            "Formal Wear Traditional",
+            "Casual Wear",
+            "Casual Traditional Wear",
+            "Formal Wear",
+            "Traditional Wear Traditional",
+            "Luxury Traditional Wear",
+            "Luxury Casual Wear Traditional",
+            "Formal Traditional Wear"
+        ],
+        "Traditional Wear": {
+            "types": [
+                "Others",
+                "Bottom-wear",
+                "Other",
+                "Top-wear",
+                "Headwear"
+            ],
+            "Others": {
+                "variants": [
+                    "Traditional Wear",
+                    "Kurti",
+                    "Saree"
+                ],
+                "styles": [
+                    "Handwoven",
+                    "Traditional Wear",
+                    "Silk"
+                ]
+            },
+            "Bottom-wear": {
+                "variants": [
+                    "Anarkali",
+                    "Lehenga",
+                    "Kurti"
+                ],
+                "styles": [
+                    "Traditional"
+                ]
+            },
+            "Other": {
+                "variants": [
+                    "Traditional Formal Wear"
+                ],
+                "styles": [
+                    "Traditional Wear",
+                    "Hand Block Printed"
+                ]
+            },
+            "Top-wear": {
+                "variants": [
+                    "Traditional Wear",
+                    "Cotton Kurti",
+                    "Cotton Saree",
+                    "Silk Kurti"
+                ],
+                "styles": [
+                    "Handwoven",
+                    "Printed",
+                    "Embroidered"
+                ]
+            },
+            "Headwear": {
+                "variants": [
+                    "Saree"
+                ],
+                "styles": [
+                    "Embroidered Headwear"
+                ]
+            }
+        },
+        "Formal Wear Traditional": {
+            "types": [
+                "Bodyware",
+                "Saree"
+            ],
+            "Bodyware": {
+                "variants": [
+                    "Saree"
+                ],
+                "styles": [
+                    "Embroidered Saree"
+                ]
+            },
+            "Saree": {
+                "variants": [
+                    "Traditional Saree",
+                    "Formal Traditional Saree"
+                ],
+                "styles": [
+                    "Saree",
+                    "Embroidered Saree"
+                ]
+            }
+        },
+        "Casual Wear": {
+            "types": [
+                "Otherwear",
+                "Midi-wear",
+                "Maxi-wear",
+                "Halter Dress",
+                "Asymmetric Dress",
+                "Bottom-wear",
+                "Kurta",
+                "Tie-front Dress",
+                "Anarkali",
+                "Top-wear",
+                "A-line Dress",
+                "Bandeau-wear",
+                "Bodycon Dress",
+                "Jacket-wear",
+                "SWEATSHIRT",
+                "Mini-wear",
+                "Draped-wear"
+            ],
+            "Otherwear": {
+                "variants": [
+                    "Subtype of Casual Wear",
+                    "Otherwear",
+                    "Type of Garment: Pant",
+                    "Type of Garment: Dress - A-line Dress",
+                    "Casual Wear",
+                    "Type of Garment: Jacket",
+                    "Type of Garment: Dress - Sleeveless Dress",
+                    "Type of Garment: Shirt - Long Sleeve",
+                    "Type of Garment"
+                ],
+                "styles": [
+                    "Strappy dress",
+                    "Flounce-trimmed dress",
+                    "Printed",
+                    "Jumper dress",
+                    "Bodycon dress",
+                    "Solid Color",
+                    "Casual Suit"
+                ]
+            },
+            "Midi-wear": {
+                "variants": [
+                    "Flared Midi Dress variation",
+                    "Bubble-hem dress variation",
+                    "Bodycon Dress variation",
+                    "A-line Dress variation",
+                    "Pleated Midi Dress variation"
+                ],
+                "styles": [
+                    "Slim Fit Dress",
+                    "Embellished Midi Dress"
+                ]
+            },
+            "Maxi-wear": {
+                "variants": [
+                    "A-line Dress",
+                    "Maxi Dress"
+                ],
+                "styles": [
+                    "Smocked A-line Dress",
+                    "Crochet-look",
+                    "A-line Dress",
+                    "Bead-detail A-line Dress",
+                    "Draped Style Dress"
+                ]
+            },
+            "Halter Dress": {
+                "variants": [
+                    "Sportswear"
+                ],
+                "styles": [
+                    "Solid Colour"
+                ]
+            },
+            "Asymmetric Dress": {
+                "variants": [
+                    "Voluminous Tie-Belt Dress",
+                    "Subtype",
+                    "Off-the-Shoulder Dress"
+                ],
+                "styles": [
+                    "Lace-detail Dress",
+                    "Stud-detail Dress",
+                    "Twist-strap Dress",
+                    "Bow-detail Dress",
+                    "Smock-detail Dress",
+                    "Strappy Dress",
+                    "Boxy Dress",
+                    "Print-motif Dress",
+                    "Halterneck Dress",
+                    "Cargo Dress",
+                    "Bodycon Dress",
+                    "Basic Tunic Dress",
+                    "Flounce-trimmed Dress",
+                    "Embroidered Dress",
+                    "Off-the-shoulder Dress"
+                ]
+            },
+            "Bottom-wear": {
+                "variants": [
+                    "Trousers",
+                    "Shorts",
+                    "High-waist Jeans",
+                    "Distressed Jeans",
+                    "Cargo Jeans",
+                    "Skinny Jeans",
+                    "Slim Fit Jeans",
+                    "Saree",
+                    "Ripped Skinny Jeans",
+                    "Camo Jeans",
+                    "Bodycon Dress",
+                    "Kurti",
+                    "Ripped Jeans",
+                    "Jeans"
+                ],
+                "styles": [
+                    "Distressed Jeans",
+                    "Regular Fit Jeans",
+                    "Flared Slim Fit",
+                    "Slim Fit Jeans",
+                    "All Over Print Distressed",
+                    "Loose Fit",
+                    "Slim Fit T-Shirt",
+                    "Straight Leg Regular Fit",
+                    "Slouchy Cargo Fit",
+                    "Ripped",
+                    "Distressed",
+                    "Straight Fit Distressed",
+                    "Athleisure Fit",
+                    "Distressed Bermuda Shorts with Colorblock Details",
+                    "Straight Fit",
+                    "Ripped Slim Fit Jeans",
+                    "Ripped Slim Fit",
+                    "Distressed Straight Fit",
+                    "Distressed Slim Fit",
+                    "Baggy",
+                    "All Over Print Slim Fit",
+                    "Straight Fit Jeans",
+                    "Slim Athletic Fit",
+                    "Loose Fit Unisex Pant",
+                    "Slim Fit",
+                    "All Over Print",
+                    "Flared",
+                    "Regular Fit",
+                    "Premium Slim Fit Jeans",
+                    "Contrast Distressed Jeans",
+                    "Distressed Loose Fit Jeans",
+                    "All Over Print Loose Fit Cargo",
+                    "All Over Print Straight Fit",
+                    "Regular Straight Fit",
+                    "Classic Straight Fit",
+                    "All Over Print Loose Fit",
+                    "Regular Fit Distressed",
+                    "Casual Wear",
+                    "Fine-grained descriptor: Embroidered Saree",
+                    "All Over Print Distressed Slim Fit",
+                    "Relaxed Fit Unisex Pant",
+                    "Straight Leg Regular Fit Jeans",
+                    "Loose Fit Distressed",
+                    "Fine-grained descriptor: Printed Saree",
+                    "Ripped Jeans"
+                ]
+            },
+            "Kurta": {
+                "variants": [
+                    "Subtype of Kurta",
+                    "Casual Kurti",
+                    "Casual Kurta"
+                ],
+                "styles": [
+                    "Printed Embellishments",
+                    "Casual Wear"
+                ]
+            },
+            "Tie-front Dress": {
+                "variants": [
+                    "High-neck Frill-collar Dress variant",
+                    "Tie-front Dress variant"
+                ],
+                "styles": [
+                    "Tie-front Dress with Frill Collar",
+                    "Tie-front Dress with Detachable Belt",
+                    "Tie-front Dress with Puff Sleeves",
+                    "Tie-front Dress with Crinkled Weave Collar"
+                ]
+            },
+            "Anarkali": {
+                "variants": [
+                    "Anarkali Kurti",
+                    "Subtype",
+                    "Casual Wear"
+                ],
+                "styles": [
+                    "Solid Anarkali",
+                    "Printed Anarkali"
+                ]
+            },
+            "Top-wear": {
+                "variants": [
+                    "Print Digital Loose Fit Shirt",
+                    "Layered Casual Wear",
+                    "Short Sleeve Graphic T-shirt",
+                    "Short Sleeve Graphic T-Shirt",
+                    "Patched Button Shirt",
+                    "Casual Cartoon Print Tee",
+                    "Graphic T-shirt",
+                    "Solid Color Short-sleeve Casual T-shirt",
+                    "Floral Shirt",
+                    "Utility Long Sleeve Shirt",
+                    "Casual Cotton Linen Short-sleeve Button Front Shirt",
+                    "Striped Button Down Shirt",
+                    "Casual Solid Color Shirt",
+                    "Classic Long-Sleeve Button-Down Shirt",
+                    "Custom Solid Color Button Front Long Sleeve Shirt",
+                    "Casual Solid Color Short-sleeve Button Front Shirt",
+                    "Animated Cartoon Print Casual Holiday T-Shirt",
+                    "Graphic Tee",
+                    "All Over Print Button Shirt",
+                    "Asymmetrical Casual Shirt",
+                    "Embroidered Long Sleeve Oxford Shirt",
+                    "Linen Button Front Shirt",
+                    "Contrast Color Button Casual Shirt",
+                    "Tank Top",
+                    "Gradient Shirts",
+                    "All Over Print Casual Shirt",
+                    "Custom Letter Print Shirt",
+                    "Casual Cartoon Print T-Shirt",
+                    "Unclassified Product Category",
+                    "Custom Striped Shirt",
+                    "Slim Fit Shirt",
+                    "Boho Button Shirt",
+                    "Casual Top",
+                    "Accessory",
+                    "T-shirt",
+                    "Colorblock Geometric Print Shirt",
+                    "Button Front Plaid Shirt",
+                    "Vintage Plaid Shirt",
+                    "Solid Textured Button Front Long Sleeve Shirt",
+                    "Solid Color Relaxed Fit Long Sleeve Shirt",
+                    "Slim Fit Button Henley Shirt",
+                    "Solid Color Short-sleeve Casual Shirt",
+                    "Relaxed Fit Solid Color Long Sleeve Tee",
+                    "Humorous Casual Short Sleeve T-Shirt",
+                    "Long Sleeve Casual Shirt",
+                    "Solid Color Long Sleeve Button Front Shirt",
+                    "Casual Long Sleeve Tee",
+                    "Print Polo Shirt",
+                    "Long Sleeve Solid Color Casual Shirt",
+                    "Relaxed Fit Button Shirt with Patchwork Details",
+                    "Holiday Casual Graphic T-Shirt",
+                    "Product Variation",
+                    "Shirt",
+                    "Casual Solid Color Short-sleeve Shirt",
+                    "Gradient Dress Shirt",
+                    "Regular Fit Long Sleeve Button Front Shirt",
+                    "Long Sleeve Casual Tee",
+                    "Layered Casual Top",
+                    "Regular Fit Button Long Sleeve Shirt",
+                    "Drop Shoulder Digital Print Long Sleeve Shirt",
+                    "Regular Fit Long Sleeve Button Front Solid Color Shirt",
+                    "Loose Fit Long Sleeve Button Shirt",
+                    "Letter Print Casual Shirt",
+                    "Accessories",
+                    "Dress Shirt",
+                    "Overshirt",
+                    "Oversized Graphic T-Shirt",
+                    "Regular Fit Solid Color Short-sleeve Button Front Shirt",
+                    "Fashion Item Variation",
+                    "Dolce Gabbana Style Dress Shirt",
+                    "Basic Cotton Short Sleeve Casual T-Shirt",
+                    "Puffy Shoulder Flannel Shirt",
+                    "Unclassified Product",
+                    "Graphic Relaxed Fit T-shirt",
+                    "Short Sleeve T-shirt",
+                    "Plaid Button Shirt",
+                    "Asymmetrical Button Shirt",
+                    "Casual Blazer",
+                    "Slim Fit Long Sleeve Casual",
+                    "Print Button Shirt",
+                    "Hawaiian Shirt",
+                    "Outerwear",
+                    "Casual Cartoon Print Short Sleeve T-Shirt",
+                    "Casual Relaxed Fit Shirt",
+                    "Custom Striped Button Shirt",
+                    "Casual Overshirt",
+                    "Print Drop Shoulder Shirt",
+                    "Basic Cotton Casual T-Shirt",
+                    "Flannel Shirt",
+                    "Loose Fit Button Shirt",
+                    "Long Sleeve Casual Button Shirt",
+                    "Custom Striped Casual Shirt",
+                    "Solid Textured Plaid Shirt",
+                    "Kurti",
+                    "Drop Shoulder Button Shirt",
+                    "Boho Henley Shirt",
+                    "Multicolored Cartoon Print T-shirt",
+                    "Leopard Print Button Front Shirt",
+                    "Puffer Shirt",
+                    "Long Sleeve Casual Button Front Shirt",
+                    "Long Sleeve T-shirt",
+                    "Short-sleeve Button Shirt",
+                    "Seersucker Shirt",
+                    "Digital Print Relaxed Fit Shirt",
+                    "Guayabera",
+                    "Patchwork Button Shirt",
+                    "Button Shirt",
+                    "Humorous Casual Graphic T-Shirt",
+                    "Long Sleeve Button Front Solid Color Casual Shirt",
+                    "Solid Color Long Sleeve Shirt",
+                    "Novelty Casual T-Shirt",
+                    "Regular Fit Button Long Sleeve Solid Color Shirt",
+                    "All Over Print Digital Button Shirt",
+                    "product-variation",
+                    "Plaid Button-Down Shirt",
+                    "a casual Solid Color Long Sleeve Top with Lapel and Button Details",
+                    "Open-Front Button Shirt",
+                    "Slim Fit Button Shirt",
+                    "Plaid Long Sleeve Button Front Shirt",
+                    "Solid Color Regular Fit Button Shirt",
+                    "Solid Textured Long Sleeve Shirt",
+                    "Casual Long Sleeve Button Front Plaid Shirt",
+                    "All Over Print Long Sleeve Shirt",
+                    "Regular Fit Long Sleeve Solid Color Button Front Shirt",
+                    "Printed Casual Long Sleeve Shirt",
+                    "Basic T-shirt",
+                    "Asymmetrical Polo Shirt",
+                    "Long Sleeve Shirt",
+                    "Solid Textured Button Front Regular Fit Shirt",
+                    "Guayabera Shirt",
+                    "Regular Fit Button Shirt",
+                    "Renaissance Pirate Shirt",
+                    "Regular Fit Polo Shirt",
+                    "Floral Button Shirt",
+                    "Solid Color Button Front Long Sleeve Shirt",
+                    "Casual Solid Color Long Sleeve Shirt",
+                    "Regular Fit T-shirt",
+                    "Contrast Color Stand Collar Single Breasted Short Sleeve Casual Shirt",
+                    "Saree",
+                    "Polo Dress",
+                    "Digital Print Long Sleeve Shirt",
+                    "Casual Button Shirt",
+                    "Striped Casual Shirt",
+                    "Button Front Plaid Long Sleeve Shirt",
+                    "Regular Fit Long Sleeve Button Shirt",
+                    "Casual Cartoon Print Graphic T-Shirt",
+                    "Plaid Shirt",
+                    "Regular Fit Button Front Long Sleeve Solid Color Shirt",
+                    "Vintage Button Shirt",
+                    "Casual T-Shirt",
+                    "Embroidered Button Front Shirt",
+                    "Solid Color Short-sleeve Casual Button Front Shirt",
+                    "Navy Pea Coat",
+                    "CBD Hybrid",
+                    "Satin Long Sleeve Shirt",
+                    "Long Sleeve Drop Shoulder Shirt",
+                    "Casual Round Neck Short Sleeve T-Shirt",
+                    "Print Shirt",
+                    "Casual Solid Color Long Sleeve Button Front Shirt",
+                    "Tactical Button Shirt",
+                    "Boho Print Button Shirt",
+                    "Long Sleeve Graphic T-shirt",
+                    "Digital Print Loose Fit Shirt",
+                    "Casual Relaxed Fit Button Shirt",
+                    "Classic Long Sleeve Shirt",
+                    "Humorous Casual T-Shirt",
+                    "Print Long Sleeve Button Front Shirt",
+                    "Relaxed Fit Button Shirt",
+                    "Patchwork Pocket Plaid Shirt",
+                    "Flannel Button Front Regular Fit Long Sleeve Solid Color Shirt",
+                    "Island Casual Shirt",
+                    "Contrast Color Turn-Down Collar Shirt",
+                    "Hoodie",
+                    "Slim Fit Casual Dress Shirt",
+                    "Short-sleeve Crew-neck T-shirt",
+                    "Casual Drop Shoulder Plaid Shirt",
+                    "Oversized Cartoon Print Long Sleeve T-Shirt",
+                    "Long Sleeve Button Front Shirt with Drop Shoulder",
+                    "Work Wear Long Sleeve Shirt",
+                    "Long Sleeve Button Front Shirt",
+                    "Solid Color Button Front Regular Fit Long Sleeve Shirt",
+                    "Print Flap Pocket Button Shirt",
+                    "Lapel Detail Long Sleeve Shirt",
+                    "Casual Long Sleeve Shirt",
+                    "Long Sleeve Button Shirt",
+                    "Simple Casual Shirt",
+                    "Open-Front Plaid Shirt",
+                    "Long Sleeve Robe",
+                    "Casual Long Sleeve Top with Lapel and Button",
+                    "Holiday-themed Casual Shirt",
+                    "Casual Cartoon Print Long Sleeve T-Shirt",
+                    "Simple Long Sleeve Button Front Shirt",
+                    "Oversized Long Sleeve Button Front Shirt",
+                    "Patchwork Shirt",
+                    "Digital Print Long Sleeve Button Shirt",
+                    "Tropical Printed Short-Sleeve",
+                    "Embroidered Long Sleeve Polo Shirt",
+                    "Supima Long Sleeve Shirt with Solid Color Back",
+                    "Standard Fit Button Shirt",
+                    "Print Flap Pocket Shirt",
+                    "Casual Plaid Shirt",
+                    "Western Shirt",
+                    "Long Sleeve Solid Color Regular Fit Button Front Shirt",
+                    "Plaid Casual Shirt",
+                    "Faux Fur Patchwork Shirt",
+                    "Gradient Button Shirt",
+                    "All-Over Print Button Casual Shirt",
+                    "Contrast Color Stand Collar Single Breasted Shirt",
+                    "Print Dress Shirt",
+                    "Camouflage Shirt",
+                    "Button Down Shirt",
+                    "Print Long Sleeve Shirt",
+                    "Graphic Casual Shirt",
+                    "Linen Button Shirt",
+                    "Linen Short-sleeve Shirt",
+                    "Custom Long Sleeve Button Front Regular Fit Solid Color Shirt",
+                    "Button-Down Button Front Long Sleeve Shirt",
+                    "Embroidered Long Sleeve Button Front Shirt",
+                    "Casual Long Sleeve Button Front Shirt",
+                    "Clothing Item",
+                    "Linen Dress Shirt",
+                    "Boho Shirt",
+                    "Drop Shoulder Plaid Shirt",
+                    "Standard Fit Long Sleeve Solid Color Button Front Shirt",
+                    "Gradient Long Sleeve Casual Shirt",
+                    "Beach Shirt",
+                    "Formal Button Shirt",
+                    "Ottoman Hooded Shirt",
+                    "Loose Fit Colorblock Shirt",
+                    "Patched Button Short-Sleeve Shirt",
+                    "Formal Relaxed Fit Button Shirt",
+                    "Regular Fit Button Front Shirt",
+                    "Tie Dye Casual Short Sleeve Top",
+                    "Casual Button Front Long Sleeve Shirt",
+                    "Long Sleeve Solid Color Button Front Shirt",
+                    "Button Front Long Sleeve Shirt",
+                    "Generic Design Shirt",
+                    "Ruffled Long Sleeve Shirt",
+                    "Button Front Long Sleeve Casual Shirt with Lapel Paneled Details",
+                    "Beige Short-sleeve Round Neck Tee",
+                    "Colorblock Geometric Print Casual Top",
+                    "Long Sleeve Henley Shirt",
+                    "Casual Plaid Long Sleeve Shirt",
+                    "Patched Button Long Sleeve Shirt",
+                    "Print Long Sleeve Button Front Casual Shirt",
+                    "Elk Print Button Shirt",
+                    "Long Sleeve Solid Color Shirt",
+                    "Regular Fit Button Front Solid Color Long Sleeve Shirt",
+                    "Seasonal Plaid Button Front Shirt",
+                    "Print Plaid Long Sleeve Shirt",
+                    "Dress",
+                    "Open Front Long Sleeve Shirt",
+                    "Patched Button Button Front",
+                    "Casual Long Sleeve Top with Lapel and Button Details",
+                    "Semi-Sheer Button Shirt",
+                    "Jacket",
+                    "Print Plaid Shirt",
+                    "Faux Fur Plaid Button Front Long Sleeve Shirt",
+                    "Funny Cartoon Character Graphic Tee",
+                    "Button-front Casual Shirt",
+                    "Embroidered Long Sleeve Shirt",
+                    "Print Digital Relaxed Fit Shirt",
+                    "ProductVariation",
+                    "Print Casual Shirt",
+                    "Long Sleeve Plaid Shirt",
+                    "Short-sleeve Casual Shirt",
+                    "Printed Floral Patchwork Button Shirt",
+                    "Linen Shirt",
+                    "casual-athleisure-wear",
+                    "Polo Shirt",
+                    "Casual Plaid Button Down Shirt",
+                    "Oxford Shirt",
+                    "Casual Long Sleeve T-shirt",
+                    "Henley Shirt",
+                    "Classic Fit Long Sleeve Oxford Shirt",
+                    "Button Front Long Sleeve Plaid Shirt",
+                    "Solid Textured Button Front Regular Fit Long Sleeve Shirt",
+                    "Button Casual Shirt",
+                    "Pinstripe Button Shirt",
+                    "Paisley Print Button Front Regular Fit Long Sleeve Solid Color Shirt",
+                    "Short Sleeve Graphic Casual",
+                    "Striped Button Shirt",
+                    "Casual Long Sleeve Henley Shirt"
+                ],
+                "styles": [
+                    "Anime-Inspired Graphic Tee",
+                    "Relaxed Fit Classic Button-Down",
+                    "Horror-Themed Graphic Print",
+                    "Solid Color Minimalist Long Sleeve Casual Shirt",
+                    "Classic Crew Neck Thermal Shirt",
+                    "Solid Color Casual Tee",
+                    "Solid Color T-Shirt",
+                    "Slim-Fit Polo Shirt",
+                    "Holiday-Themed Graphic Print",
+                    "Classic Cotton Casual Button-Shirt",
+                    "Unconventional Statement Piece",
+                    "StyleEnhancer",
+                    "Classic Plain Long-Sleeve Shirt",
+                    "Colorblock Shirt",
+                    "Plain Solid Color Long-Sleeve Shirt",
+                    "Casual Regular Fit Plain Cotton Long-Sleeve Shirt",
+                    "Oversized",
+                    "Fine-Grained Aesthetic",
+                    "Modern Flannel Shirt",
+                    "Simple Button-Down Casual Shirt",
+                    "Casual Long Sleeve Regular Fit Autumn Western",
+                    "Refined Aesthetic",
+                    "Plain Cotton Shirt",
+                    "Regular Fit Long Sleeve Button-Down",
+                    "Casual Island Print",
+                    "AmbientElegance",
+                    "Eclectic Aesthetic Elements - Patterned Accent",
+                    "Regular Fit Solid Color Button-Down Shirt",
+                    "Aesthetic Element",
+                    "Ambient Enhancements",
+                    "Graphic Print with Cartoon Elements",
+                    "Popover Shirt",
+                    "Butterfly Print Shirt",
+                    "Atmospheric Accents",
+                    "Unique Aesthetic Elements",
+                    "Eclectic Fashion Piece",
+                    "Christmas Cartoon Character Graphic Print Casual Wear",
+                    "Floral Digital Print",
+                    "Casual Long Sleeve All Over Print Shirt",
+                    "Eclectic Aesthetic Elements",
+                    "Ambiguous Style",
+                    "ElevatedLuxe",
+                    "Solid Color Casual Shirt",
+                    "Slim-Fit Cotton Regular Fit Shirt",
+                    "Holiday-Themed Graphic Casual Tee with Cartoon Elements",
+                    "Minimalist Casual Long Sleeve Shirt",
+                    "Classic Button-Down Shirt with Long Sleeve and Regular Fit",
+                    "Botanical Prints with Distressed Textures",
+                    "Cartoon Character Graphic Print Casual Wear",
+                    "Gold Satin Button Front Shirt",
+                    "Geometric Print with Minimalist Design",
+                    "Seasonal Western Casual Colorblock",
+                    "Holiday-Themed Casual Graphic Print with Cartoon Elements",
+                    "Casual Colorblock Shirt",
+                    "All Over Pumpkin Graphic",
+                    "Solid Color TShirt",
+                    "Graphic Print Casual Shirt",
+                    "Autumn Casual Colorblock Shirt",
+                    "Geometric Print",
+                    "Refined Textural Blend",
+                    "StyleAccent",
+                    "Atmospheric Aesthetic",
+                    "Novelty Casual Graphic Tee",
+                    "One-shoulder Style Dress",
+                    "Mixed Holiday Graphic Print Casual Wear",
+                    "Fine-grained Aesthetic Element",
+                    "Fine-grained aesthetic detail",
+                    "Unconventional Fashion Piece",
+                    "EclecticLux",
+                    "Refined Luxe Accents",
+                    "Atmospheric Elegance",
+                    "Unique Patterned Embellishment",
+                    "Regular Fit Cotton Shirt",
+                    "Minimalist Dress",
+                    "Refined Luxe",
+                    "Eclectic Aesthetic Element - Fine-grained aesthetic elements with Distressed Detail",
+                    "Graphic Print with Cartoon Elements and Geometric Accent",
+                    "Unconventional Design",
+                    "Aesthetic Accents",
+                    "Refined Distressed",
+                    "Refined Fine-Grained Luxe",
+                    "Oversized Graphic Print Casual Wear",
+                    "Refined Luxe Details",
+                    "Casual Oxford Shirt",
+                    "Asymmetrical",
+                    "Eclectic Aesthetic Element - Fine-Grained Textures with Distressed Detail",
+                    "Casual Regular Fit Solid Color Shirt",
+                    "Understated Elegance",
+                    "Plain Cotton Regular Fit Plain Long-Sleeve Shirt",
+                    "Casual Green Camouflage Shirt",
+                    "Refined Textures",
+                    "Tie-front Dress",
+                    "Subtle Floral Prints",
+                    "Basic Cotton Top",
+                    "Holiday-Themed Graphic Print with Sarcastic Humor",
+                    "Sleeveless Top",
+                    "Atmospheric Luxe",
+                    "Niche Enhancements",
+                    "Brown Plaid Shirt",
+                    "Elevated Luxe",
+                    "Autumn Casual Western",
+                    "Textured Accents",
+                    "Refined Details",
+                    "AmbientEnhancements",
+                    "Patched Details Casual Shirt",
+                    "Plain Cotton Top",
+                    "Casual Plaid Shirt",
+                    "Finishing Touches",
+                    "Top-wear",
+                    "Textured Luxe Blend",
+                    "Long-Sleeve Woven Casual Shirt",
+                    "Luxe Accents",
+                    "Holiday-Themed Cartoon Character Casual Wear",
+                    "Refined Elegance with Distressed Detail",
+                    "Casual Wear with General Geometric Cartoon Graphic Print",
+                    "Classic Cotton Shirt",
+                    "Striped",
+                    "Aesthetic Detail Enhanced Product",
+                    "Ambient Luxe Accents",
+                    "SustainableMinimalistAccents",
+                    "Style",
+                    "Atmospheric Texture Blend",
+                    "Boho Chic Shirt",
+                    "Atmospheric Texture",
+                    "Casual Long Sleeve Regular Fit Colorblock Shirt",
+                    "Classic Casual Long Sleeve Shirt",
+                    "Novelty Cartoon Character Graphic Tee",
+                    "Bold Letter Print Casual Wear",
+                    "Graphic Colorblock Shirt",
+                    "Refined Elegance Blend",
+                    "Anime-Inspired Graphic Print Casual Tee",
+                    "Casual Hooded Robe",
+                    "Geometric All Over Print",
+                    "Elevated Luxe Blend",
+                    "Decorative Accent",
+                    "Sequined Patchwork Detail",
+                    "Textured Casual Tee",
+                    [
+                        "Graphic Print",
+                        "Casual Wear",
+                        "Top-wear",
+                        "Holiday-Themed Graphic Print",
+                        "Christmas Cartoon Character Casual Wear"
+                    ],
+                    "Loose-Fit Colorblock Shirt",
+                    "Vintage-Inspired Graphic Tee",
+                    "Floral Print Shirt",
+                    "Simple Button-Down",
+                    "Plain Cotton Regular Fit Button-Down",
+                    "Animal Print",
+                    "Eclectic",
+                    "Basic Long-Sleeve Top",
+                    "Elevated Basics with Unconventional Feature",
+                    "Classic Simple Cotton Shirt",
+                    "Plain Cotton Regular Fit Long-Sleeve Shirt",
+                    "Geometric Casual Print",
+                    "Sequin Embroidered Mesh Dress",
+                    "Sarcastic Humor Tee",
+                    "Slogan Casual Tee",
+                    "Aesthetic Luxe",
+                    "Luxury Texture",
+                    "Fine-grained",
+                    "Basic Holiday Graphic Casual Tee",
+                    "Geometric Appliqu\u00e9 Graphic Tee",
+                    "Casual Regular Fit Long Sleeve Shirt",
+                    "Plain Button-Down",
+                    "Slim-fitting Rib Knit Casual Shirt",
+                    "Geometric Patchwork Shirt",
+                    "Patterned Accent",
+                    "Cartoon Geometric Print",
+                    "Casual Long Sleeve Regular Fit Shirt with Chrome Accents",
+                    "Casual Regular Fit Shirt",
+                    "Holiday-Themed Casual Tee",
+                    "Unique Aesthetic Element",
+                    "Regular Fit Colorblock Shirt",
+                    "Embroidered Accent",
+                    "Plain Cotton Casual Wear",
+                    "Oversized Casual Shirt",
+                    "Purple Solid Color Casual Long-Sleeve Shirt",
+                    "Solid Color Loose Fit Long-Sleeve Shirt",
+                    "Solid Color Patchwork Print",
+                    "Basic Graphic Print",
+                    "Whimsical Accents",
+                    "Solid Color Long Sleeve Top with Slim Fit",
+                    "Geometric Graphic Print Casual Wear",
+                    "Simple Casual Long-Sleeve Shirt",
+                    "Geometric Cartoon Holiday Graphic Tee",
+                    "Faux Acid Wash Shirt",
+                    "Classic Polo",
+                    "Luxe Texture Blend",
+                    "Holiday-Themed Casual Graphic Tee",
+                    "Ethereal Blends",
+                    "Basic Casual Tee",
+                    "Plain Grey Long Sleeve Shirt",
+                    "Personalized",
+                    "Regular Fit Plain Cotton Long-Sleeve Shirt",
+                    "Seasonal Western Casual Button-Down",
+                    "Atmospheric",
+                    "Simple Slogan T-Shirt",
+                    "Refined Elegance",
+                    "Atmospheric Blend",
+                    "Wolf Graphic Print Casual Wear",
+                    "Elevated Basics with Distressed Texture",
+                    "Regular Fit Long Sleeve Tee",
+                    "High-End Fashion Casual Regular Fit Plain Cotton Shirt with Chrome Accents",
+                    "Long-Sleeve Button-Down Shirt with Plaid Pattern",
+                    "Casual Cotton Shirts with Camouflage Pattern",
+                    "Business Casual Long Sleeve Button-Down Shirt",
+                    "Casual Long Sleeve Regular Fit Shirt with Digital Print",
+                    "Subtle Luxe",
+                    "Casual Regular Fit Plain Cotton Shirt",
+                    "Classic Solid Long-Sleeve Shirt",
+                    "Fine-grained aesthetic elements",
+                    "Unique Graphic Patchwork Design",
+                    "Age-Themed Casual Tee",
+                    "Oxford Button-Down Shirt",
+                    "Relaxed Fit Casual Tee",
+                    "Fine-grained aesthetic element - Texture",
+                    "Casual Embroidered Long Sleeve",
+                    "Casual Denim",
+                    "Unique Aesthetic Element - Texture",
+                    "Elevated Sophisticate",
+                    "Niche Fashion Statement",
+                    "Humorous Graphic Casual Tee",
+                    "Glossy Satin Shirt",
+                    "Subtle Details",
+                    "Winter Warmth Plaid",
+                    "Plain Cotton Regular Fit Long Sleeve Shirt",
+                    "Elevated Basics",
+                    "Regular Fit Cotton Shirt with Logo",
+                    "Eclectic Fashion Statement",
+                    "Nuanced Details",
+                    "Geometric Pattern on Solid Color T-Shirt",
+                    "Graphic Print Cartoon Character Graphic Print Casual Wear",
+                    "Fine-grained Aesthetic Details",
+                    "Casual Long Sleeve Plain Cotton Button-Down Shirt with Classic Old Treatment Detail",
+                    "Woven Plaid Casual Long-Sleeve Shirt",
+                    "Floral Print",
+                    "Ethereal Luxe Blend",
+                    "Casual Wear with Geometric Accent",
+                    "Botanical Prints",
+                    "Elegant Minimalism",
+                    "Casual Button-Down",
+                    "Plain Cotton Western Shirt",
+                    "Printed",
+                    "Holiday-Themed Graphic Print Casual Wear with Ugly Design",
+                    "Casual Long Sleeve Henley Shirt",
+                    "Classic Polo Button-Down",
+                    "Nuanced Blend",
+                    "AtmosphericLuxe",
+                    "Casual Tee with Minimalist Design",
+                    "Boho Chic Long Sleeve Shirt",
+                    "Casual Solid Color Shirt",
+                    "Ethereal Accents",
+                    "Colorblock Graphic Casual Shirt",
+                    "Casual Regular Fit Plain Cotton All-Over Print",
+                    "Casual Regular Fit Plain Cotton Shirt (Manfinity Style)",
+                    "Rib Knit Tee",
+                    "Seasonal Influence",
+                    "Plain Blue Casual Long Sleeve Shirt",
+                    "Coastal Chic",
+                    "Cartoon Character Graphic Print",
+                    "All Over Print Casual Shirt",
+                    "Casual Shirt",
+                    "High-End Fashion Statement - Unique Feature",
+                    "Simple Button Down",
+                    "Coastal Chic with Fine-Grained Textures",
+                    "Bold Letter Print",
+                    "High-Quality Linen Shirt",
+                    "High-Quality Denim Button-Down",
+                    "Eclectic Luxe with Distressed Element",
+                    "Graphic Print",
+                    "Graphic Casual Tee with Cartoon Elements and Holiday Theme",
+                    "Business Casual Men s Loose Fit Woven Plaid Collar Detail",
+                    "Luxury Aesthetic",
+                    "Snowflake Print Shirt",
+                    "Plain Fleece Hoodie",
+                    "Elegant Refinement",
+                    "Holiday-Themed Graphic Print Casual Wear",
+                    "Geometric Cartoon Graphic Print Casual Wear",
+                    "Solid Color Patchwork Print Casual Wear",
+                    "Plain Cotton Regular Fit Plain Shirt",
+                    "Casual Long Sleeve Regular Fit Shirt",
+                    "All Over Print Shirt",
+                    "Graphic Casual Tee",
+                    "Business Casual Shirt",
+                    "Rooster Pattern Graphic Casual Wear",
+                    "Style - Long Sleeve",
+                    "Refined Sophisticate",
+                    "Aesthetic Blends",
+                    "Classic Fit Shirt",
+                    "Holiday-Themed Casual Graphic Tee with Geometric Accent",
+                    "Eclectic Aesthetic Elements - Fine-grained aesthetic elements with Distressed Detail",
+                    "Relaxed Fit Technical Top",
+                    "Graphic Print Cartoon Character Halloween Tee",
+                    "Niche Fashion Piece",
+                    "Business Casual Men s Regular Fit Plain Cotton Shirt",
+                    "Refined Nuance",
+                    "Casual Cotton Shirts",
+                    "Casual Regular Fit Colorblock Shirt",
+                    "Atmospheric Chic",
+                    "Graphic Print Holiday-Themed Casual Wear",
+                    "Plaid Classic Fit Button Down Shirt",
+                    "Holiday-Themed Casual Graphic Print",
+                    "Business Casual Regular Fit Plaid Shirt",
+                    "Plain Cotton Long-Sleeve Shirt",
+                    "Elevated Basics with Unique Features",
+                    "Digital Print Casual Shirt",
+                    "Botanical Prints with Fine-Grained Textures",
+                    "High-End Fashion Statement - Unconventional Feature",
+                    "Digital Print Denim Shirt",
+                    "Unique Solid Color Design",
+                    "Faded Wash Flannel",
+                    "Classic Button-Up Shirt",
+                    "Asymmetrical Luxe",
+                    "Casual Regular Fit Cotton Shirts",
+                    "Mixed Graphic Print with Holiday-Themed Elements",
+                    "Fine-grained patterns",
+                    "Leopard Print Shirt",
+                    "Retro-Inspired Graphic Print Casual Wear",
+                    "Generic Holiday Graphic Tee",
+                    "Premium Denim",
+                    "Minimalist Elegance",
+                    "Slim-fitting Dress",
+                    "Casual Solid Long-Sleeve Shirt",
+                    "Solid Color Graphic Tee",
+                    "Fine-Grained Pattern Accents",
+                    "Striped Casual Shirt",
+                    "Casual Floral Shirt",
+                    "Dotted Plaid Shirt",
+                    "Regular Fit Plaid Button-Down Shirt",
+                    "Metallic Zip-Placket Casual Shirt",
+                    "Top with Geometric Accent",
+                    "Novelty Cartoon Character Graphic Print Casual Wear",
+                    "Aesthetic Details",
+                    "Regular Fit Solid Color Button-Down",
+                    "Solid Color Button-Down with Long Sleeve and Regular Fit",
+                    "Plain Solid Color Shirt",
+                    "Graphic Print Casual Wear Top-wear",
+                    "Eclectic Aesthetic Element - Fine-Grained Textures",
+                    "UnconventionalLux",
+                    "Casual Regular Fit Plaid Button-Down Shirt",
+                    "Tropical Floral Print Shirt",
+                    "Unique Fashion Statement",
+                    "Business Casual Men s Loose Fit Woven Plaid Collared Casual Shirt",
+                    "Business Casual Men s Woven Plaid Collared Casual Long-Sleeve Shirt",
+                    "AtmosphericBlends",
+                    "Solid Color Button-Down Shirt",
+                    "Loose-Fit Regular Fit Plain Cotton Shirt",
+                    "Elevated Details",
+                    "Gingham",
+                    "Funny Slogan Graphic Tee",
+                    "Ambient Accents",
+                    "Unconventional Fashion Statement",
+                    "AmbientBlends",
+                    "Bold Letter Print Casual Tee",
+                    "Simple Plain Cotton Long-Sleeve Shirt",
+                    "Printed Tee with Minimalist Design",
+                    "Brushstroke Silhouette Graphic Tee",
+                    "Holiday-themed Graphic Print Shirt",
+                    "Regular Fit Plain Cotton Shirt",
+                    "Casual Long Sleeve Regular Fit Plaid Shirt",
+                    "Classical Long-Sleeve",
+                    "Casual Long Sleeve Plaid Shirt",
+                    "Sequined Patchwork Shirt",
+                    "Casual Oxford Long Sleeve",
+                    "Ambient Chic",
+                    "Casual Hawaiian Shirt",
+                    "Fine-grained patterns with Distressed element",
+                    "Simple Solid Color Long-Sleeve Shirt",
+                    "Casual Wear",
+                    "Solid",
+                    "Refined Luxe Blends",
+                    "Textured Embellishments",
+                    "Holiday-Themed Camo Graphic Print",
+                    "Holiday-themed Casual Shirt with All-Over Print",
+                    "Gradient Shaded Shirt",
+                    "Casual Graphic Tee",
+                    "Slim Fit Button-Down Shirt",
+                    "Elevated Minimalist Chic",
+                    "Unconventional Blends",
+                    "Aesthetic Elements",
+                    "Long Sleeve Ottoman Hooded Casual Shirt",
+                    "Graphic Print Shirt",
+                    "Holiday-Themed Cartoon Character Graphic Print Casual Wear",
+                    "Slim-fitting Cotton Shirt",
+                    "Classic Plain Shirts/Solid Long-Sleeve Shirts",
+                    "Classic Cotton Long-Sleeve Button-Down",
+                    "Regular Fit Plain Cotton Casual Shirt",
+                    "High-Quality Everyday Casual Shirt",
+                    "Ambient Influence",
+                    "Basic Solid Color Graphic Tee",
+                    "Unique Feature",
+                    "Ethereal Luxe",
+                    "EtherealLuxeBlend",
+                    "Simple Long-Sleeve Button-Down",
+                    "Geometric Letter Appliqu\u00e9",
+                    "Tropical Floral Casual Shirt",
+                    "Plain Cotton Regular Fit Shirt",
+                    "Island Inspired",
+                    "AestheticBlends",
+                    "Embroidered",
+                    "Slim-fitting Cotton Button-Down",
+                    "Refined Details - Texture",
+                    "Casual Long Sleeve Regular Fit Plain Cotton Shirt",
+                    "Basic Solid Color T-Shirt",
+                    "Double Sided Print Long-Sleeve Shirt",
+                    "Novelty Cartoon Character Tee",
+                    "Style Accent",
+                    "Casual Shirt with Unique Cut",
+                    "Fine-grained aesthetic elements with Distressed Detail",
+                    "Flannel Casual Long-Sleeve Shirt",
+                    "Nuanced Aesthetic",
+                    "Beachwear Casual Button-Down",
+                    "Casual Relaxed Fit Shirt",
+                    "Boxy Style",
+                    "Men s Embroidered Long Sleeve Shirt",
+                    "Flannel Shirt",
+                    "Ambient Luxe",
+                    "Letter Tie-Dye Graphic Tee",
+                    "Business Casual Button-Down Shirt",
+                    "Fine-grained aesthetic elements - Texture",
+                    "Resonant Chic",
+                    "Regular Fit Long-Sleeve Plaid Button-Down Shirt",
+                    "Elevated Luxe Accents",
+                    "Premium Denim Regular Fit Long Sleeve Shirt",
+                    "Eclectic Aesthetic Elements - Fine-Grained Textures",
+                    "Embossed Graphic Print Casual Wear",
+                    "Unconventional Aesthetic",
+                    "Classic Casual Long-Sleeve Shirt",
+                    "Classic Basic T-Shirt",
+                    "Eclectic Luxe",
+                    "Unconventional Blend",
+                    "Holiday-themed All Over Print Shirt",
+                    "Simple Slogan Tee",
+                    "Refined Sophisticate with Fine-grained Textures",
+                    "Fine-grained aesthetic elements - Patterned Embellishments",
+                    "Casual Oversized Shirt",
+                    "Geometric Graphic Print",
+                    "Refined Luxe Blend",
+                    "Casual Tee with Minimalist Cartoon Character Graphic Print",
+                    "Regular Fit Polo Shirt",
+                    "Fashion Statement",
+                    "Holiday-Themed Graphic Print Casual Wear with Geometric Accent",
+                    "Holiday-Themed Graphic Print Casual Wear with Humorous Twist",
+                    "Unique Design Elements",
+                    "Diamond Pattern",
+                    "Eclectic Mix",
+                    "Regular Fit Solid Color Shirt",
+                    "Casual Solid Color Long-Sleeve Shirt",
+                    "Loose-Fit Khaki Cotton Shirt",
+                    "Muffin Graphic Tee",
+                    "SustainableLuxury",
+                    "HuesAndPatterns",
+                    "Regular Fit Cotton Top",
+                    "High-End Fashion Casual Regular Fit Plain Cotton Shirt",
+                    "Aesthetic Elements - Unique Feature",
+                    "Ethereal Elegance",
+                    "Refined Luxe with Distressed Element",
+                    "Basic Graphic Print Casual Wear",
+                    "Elevated Textured Luxe",
+                    "Fine-grained patterned Accent",
+                    "Classic Solid Color Shirt",
+                    "Geometric Cartoon Casual Graphic Print with Holiday Theme",
+                    "Refined Luxe with Distressed Detail",
+                    "Regular Fit Plain Cotton Regular Fit Long-Sleeve Shirt",
+                    "Western Long Sleeve Colorblock",
+                    "Holiday-themed Casual Shirt",
+                    "Regular Fit Solid Color T-Shirts with Button-Down Details",
+                    "Casual Style",
+                    "Plaid Casual Shirt",
+                    "Patterned Embellishments",
+                    "Graphic Print Casual Wear",
+                    "Humorous Graphic Casual Wear",
+                    "Eclectic Textured Blend",
+                    "Geometric Pattern",
+                    "Holiday-Themed Cartoon Graphic Print Casual Wear",
+                    "Long-Sleeve Casual Shirt",
+                    "Miscellaneous",
+                    "Vintage Disco Shirt",
+                    "Relaxed Fit Long Sleeve Tee",
+                    "Refined Distressed Luxe",
+                    "Subtle Nuance",
+                    "Atmospheric Luxe Accents",
+                    "Simple Cotton Linen Shirt",
+                    "EclecticLuxe",
+                    "Simple Graphic Print Tee",
+                    "High-End Fashion Statement",
+                    "BotanicalBlends",
+                    "EclecticBlends",
+                    "Geometric Cartoon Casual Graphic Print",
+                    "Wappen-Style",
+                    "Funny Cartoon Graphic Print Casual Wear",
+                    "Elegant Minimalist",
+                    "Simple Solid Color Button-Down",
+                    "Business Casual Regular Fit Plaid Cotton Shirt",
+                    "Mixed Print Casual Wear"
+                ]
+            },
+            "A-line Dress": {
+                "variants": [
+                    "Subtype",
+                    "Flared Dress"
+                ],
+                "styles": [
+                    "A-line Dress with Frill Trim",
+                    "A-line Dress with Pleats",
+                    "A-line Dress",
+                    "A-line Dress with Flared Skirt",
+                    "Minimalist Dress"
+                ]
+            },
+            "Bandeau-wear": {
+                "variants": [
+                    "Strappy Dress",
+                    "Bandeau Dress",
+                    "High-low dress"
+                ],
+                "styles": [
+                    "V-Neck Dress",
+                    "Smocked Bandeau Dress",
+                    "Viscose Beige Midi Dress",
+                    "Distressed Cotton"
+                ]
+            },
+            "Bodycon Dress": {
+                "variants": [
+                    "Bodycon Dress Type",
+                    "Mermaid Skirt Dress Type"
+                ],
+                "styles": [
+                    "Bodycon",
+                    "Ribbed"
+                ]
+            },
+            "Jacket-wear": {
+                "variants": [
+                    "Subtype of Jacket-wear"
+                ],
+                "styles": [
+                    "Colorblock"
+                ]
+            },
+            "SWEATSHIRT": {
+                "variants": [
+                    "SWEATSHIRT JUMPER"
+                ],
+                "styles": [
+                    "Distressed Jeans",
+                    "All Over Print Casual Style",
+                    "Cable-knit pattern"
+                ]
+            },
+            "Mini-wear": {
+                "variants": [
+                    "A-line Dress",
+                    "Bodycon Dress",
+                    "Flared Dress"
+                ],
+                "styles": [
+                    "Overseas",
+                    "A-line Dress",
+                    "Bodycon Dress",
+                    "Turtleneck Dress with Turtle Neckline"
+                ]
+            },
+            "Draped-wear": {
+                "variants": [
+                    "Jumper Dress",
+                    "Bodycon Dress",
+                    "T-shirt Dress"
+                ],
+                "styles": [
+                    "Solid Colour",
+                    "Embroidered Saree"
+                ]
+            }
+        },
+        "Casual Traditional Wear": {
+            "types": [
+                "Headwear",
+                "Saree"
+            ],
+            "Headwear": {
+                "variants": [
+                    "Saree"
+                ],
+                "styles": [
+                    "Embroidered Saree"
+                ]
+            },
+            "Saree": {
+                "variants": [
+                    "Sub-Type of Traditional Wear",
+                    "Sub-Type of Traditional Wear - Saree"
+                ],
+                "styles": [
+                    "Casual Traditional Wear",
+                    "Saree",
+                    "Embroidered Saree"
+                ]
+            }
+        },
+        "Formal Wear": {
+            "types": [
+                "Wrapwear",
+                "Bodycon",
+                "Dress",
+                "Bottom-wear",
+                "Formal Wear",
+                "Top-wear",
+                "Kurta-wear"
+            ],
+            "Wrapwear": {
+                "variants": [
+                    "Formal Wrap",
+                    "Formal Wrap Dress"
+                ],
+                "styles": [
+                    "Blazer Dress",
+                    "Sequined"
+                ]
+            },
+            "Bodycon": {
+                "variants": [
+                    "Blazer Dress",
+                    "Bodycon Dress"
+                ],
+                "styles": [
+                    "Blazer dress",
+                    "Tie-detail strappy dress",
+                    "Bodycon Dress"
+                ]
+            },
+            "Dress": {
+                "variants": [
+                    "Formal Chiffon Dress",
+                    "Formal Viscose Dress",
+                    "Formal Satin Dress",
+                    "Formal Lace Dress",
+                    "Formal Bodycon Dress",
+                    "Formal Sequined Dress"
+                ],
+                "styles": [
+                    "Bodycon",
+                    "Sequined",
+                    "Flounced"
+                ]
+            },
+            "Bottom-wear": {
+                "variants": [
+                    "Bandeau Dress",
+                    "Saree"
+                ],
+                "styles": [
+                    "Formal Wear",
+                    "Layered Ruffles",
+                    "Embroidered"
+                ]
+            },
+            "Formal Wear": {
+                "variants": [
+                    "Formal Wear Variation - Printed Gown",
+                    "Formal Wear Variation"
+                ],
+                "styles": [
+                    "Floral Printed Western Dress",
+                    "Western Dress",
+                    "Formal Wear"
+                ]
+            },
+            "Top-wear": {
+                "variants": [
+                    "Shirt",
+                    "Gown",
+                    "Blazer Dress",
+                    "Top-wear"
+                ],
+                "styles": [
+                    "Formal Wear",
+                    "Minimalist",
+                    "Sequin",
+                    "Satin Finish"
+                ]
+            },
+            "Kurta-wear": {
+                "variants": [
+                    "Kurta-wear variation",
+                    "Formal Kurta"
+                ],
+                "styles": [
+                    "Formal Wear",
+                    "Embroidered"
+                ]
+            }
+        },
+        "Traditional Wear Traditional": {
+            "types": [
+                "Headwear",
+                "Bottom-wear"
+            ],
+            "Headwear": {
+                "variants": [
+                    "Traditional Wear"
+                ],
+                "styles": [
+                    "Embroidered"
+                ]
+            },
+            "Bottom-wear": {
+                "variants": [
+                    "Traditional Wear",
+                    "Saree"
+                ],
+                "styles": [
+                    "Traditional Wear",
+                    "Embroidered Saree"
+                ]
+            }
+        },
+        "Luxury Traditional Wear": {
+            "types": [
+                "Mekhla Chador",
+                "Bottom-wear",
+                "Top-wear",
+                "Other-wear"
+            ],
+            "Mekhla Chador": {
+                "variants": [
+                    "Luxury Saree",
+                    "Variation"
+                ],
+                "styles": [
+                    "Printed Traditional Wear",
+                    "Printed Embroidered Design",
+                    "Embroidered Traditional Wear",
+                    "Embroidered Saree",
+                    "Luxury Traditional Wear"
+                ]
+            },
+            "Bottom-wear": {
+                "variants": [
+                    "Luxury Traditional Wear Sari"
+                ],
+                "styles": [
+                    "Luxury Traditional Wear",
+                    "Zari Weaved"
+                ]
+            },
+            "Top-wear": {
+                "variants": [
+                    "Clothing - Saree",
+                    "Luxury Traditional Wear - Saree"
+                ],
+                "styles": [
+                    "Luxury Traditional Wear",
+                    "Embroidered Saree",
+                    "Organza Embellished garment"
+                ]
+            },
+            "Other-wear": {
+                "variants": [
+                    "Banarasi Silk Saree",
+                    "Banarasi Silk Saree with Unstitched Blouse & Latkan",
+                    "Fancy Cotton Saree",
+                    "Saree",
+                    "Other-wear",
+                    "Fancy Cotton Mulmul Saree",
+                    "Silk Saree",
+                    "Luxury Traditional Wear",
+                    "Fancy Lycra Saree",
+                    "Khadi Silk Saree"
+                ],
+                "styles": [
+                    "Printed Embroidered Saree",
+                    "Applique Saree",
+                    "Printed Saree",
+                    "Other-wear",
+                    "Embroidered Saree",
+                    "Zari Woven Saree"
+                ]
+            }
+        },
+        "Luxury Casual Wear Traditional": {
+            "types": [
+                "Headwear",
+                "Bottom-wear",
+                "Top-wear"
+            ],
+            "Headwear": {
+                "variants": [
+                    "Saree"
+                ],
+                "styles": [
+                    "Luxurious Embellishments"
+                ]
+            },
+            "Bottom-wear": {
+                "variants": [
+                    "Saree"
+                ],
+                "styles": [
+                    "Luxury Casual Wear Traditional Saree",
+                    "Embroidered Saree"
+                ]
+            },
+            "Top-wear": {
+                "variants": [
+                    "Saree"
+                ],
+                "styles": [
+                    "Embroidered Blouse",
+                    "Embroidered Saree"
+                ]
+            }
+        },
+        "Formal Traditional Wear": {
+            "types": [
+                "Bottom-wear",
+                "Formal Traditional Wear",
+                "Saree",
+                "Mekhla Sador"
+            ],
+            "Bottom-wear": {
+                "variants": [
+                    "Formal Traditional Saree"
+                ],
+                "styles": [
+                    "Formal Traditional Wear",
+                    "Embroidered Saree"
+                ]
+            },
+            "Formal Traditional Wear": {
+                "variants": [
+                    "Formal Traditional Wear",
+                    "Saree",
+                    "Silk Saree"
+                ],
+                "styles": [
+                    "Printed Embroidered Georgette Saree",
+                    "Formal Traditional Wear"
+                ]
+            },
+            "Saree": {
+                "variants": [
+                    "Formal Traditional Wear",
+                    "Saree"
+                ],
+                "styles": [
+                    "Printed Saree",
+                    "Formal Traditional Wear Saree",
+                    "Embroidered Saree"
+                ]
+            },
+            "Mekhla Sador": {
+                "variants": [
+                    "Subtype"
+                ],
+                "styles": [
+                    "Embroidered Mekhla Sador"
+                ]
+            }
+        }
+    },
+    "Footwear": {
+        "classes": [
+            "Smart Casual Shoes",
+            "Casual Shoes",
+            "Semi Formal Shoes"
+        ],
+        "Smart Casual Shoes": {
+            "types": [
+                "Footwear"
+            ],
+            "Footwear": {
+                "variants": [
+                    "Sneakers",
+                    "High-top Sneakers"
+                ],
+                "styles": [
+                    "Patterned Footwear",
+                    "Patterned Sneakers"
+                ]
+            }
+        },
+        "Casual Shoes": {
+            "types": [
+                "Footwear/Sneakers",
+                "Footwear"
+            ],
+            "Footwear/Sneakers": {
+                "variants": [
+                    "Sneaker",
+                    "High-top Sneakers"
+                ],
+                "styles": [
+                    "Solid Pattern",
+                    "Colourblocked"
+                ]
+            },
+            "Footwear": {
+                "variants": [
+                    "Sneaker"
+                ],
+                "styles": [
+                    "Patterned Footwear"
+                ]
+            }
+        },
+        "Semi Formal Shoes": {
+            "types": [
+                "Footwear"
+            ],
+            "Footwear": {
+                "variants": [
+                    "Sneakers"
+                ],
+                "styles": [
+                    "Tan Leather"
+                ]
+            }
+        }
+    }
+}
